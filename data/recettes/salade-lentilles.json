@@ -1,69 +1,76 @@
 {
-  "etapes": [],
+  "nom": "Salade de lentilles, feta et graines de courge",
+  "type": "vege",
+  "portions": 6,
+  "notes": "Pour le 2e repas, garder feta, tomates et graines à part et les ajouter au dernier moment.",
+  "source": "Recette maison",
   "ingredients": [
     {
-      "n": "lentilles",
-      "q": null,
-      "r": "Épicerie",
-      "u": ""
+      "q": 375,
+      "u": "g",
+      "n": "lentilles vertes",
+      "r": "Épicerie"
     },
     {
+      "q": 2,
+      "u": "",
       "n": "échalotes",
-      "q": null,
-      "r": "Fruits & légumes",
-      "u": ""
+      "r": "Fruits & légumes"
     },
     {
+      "q": 200,
+      "u": "g",
       "n": "feta",
-      "q": null,
-      "r": "Crèmerie & œufs",
-      "u": ""
+      "r": "Crèmerie & œufs"
     },
     {
-      "n": "graines de courge",
-      "q": null,
-      "r": "Épicerie",
-      "u": ""
-    },
-    {
+      "q": 300,
+      "u": "g",
       "n": "tomates cerises",
-      "q": null,
-      "r": "Fruits & légumes",
-      "u": ""
+      "r": "Fruits & légumes"
     },
     {
-      "n": "sauce cacahuète",
-      "q": null,
-      "r": "Épicerie",
-      "u": ""
+      "q": 4,
+      "u": "c. à s.",
+      "n": "graines de courge",
+      "r": "Épicerie"
     },
     {
+      "q": 3,
+      "u": "c. à s.",
+      "n": "beurre de cacahuète",
+      "r": "Épicerie"
+    },
+    {
+      "q": 3,
+      "u": "c. à s.",
       "n": "huile de sésame",
-      "q": null,
-      "r": "Épicerie",
-      "u": ""
+      "r": "Épicerie"
     },
     {
+      "q": 2,
+      "u": "c. à s.",
       "n": "miel",
-      "q": null,
-      "r": "Épicerie",
-      "u": ""
+      "r": "Épicerie"
     },
     {
+      "q": 1,
+      "u": "",
       "n": "citrons",
-      "q": null,
-      "r": "Fruits & légumes",
-      "u": ""
+      "r": "Fruits & légumes"
     }
   ],
-  "nom": "Salade de lentilles, feta et graines de courge",
-  "notes": "Sauce : cacahuète, huile de sésame, miel, citron.",
-  "portions": 6,
-  "type": "vege",
-  "prep": 20,
+  "etapes": [
+    "Rincer les lentilles, les cuire départ eau froide non salée 20 à 25 min (encore un peu fermes). Égoutter, saler, laisser tiédir.",
+    "Sauce : fouetter beurre de cacahuète, huile de sésame, miel, jus de citron et 3 c. à s. d'eau tiède ; saler, poivrer.",
+    "Émincer finement les échalotes, couper les tomates cerises en deux, émietter la feta.",
+    "Mélanger les lentilles tièdes avec les échalotes et la sauce.",
+    "Au moment de servir, ajouter tomates, feta et graines de courge."
+  ],
+  "prep": 15,
   "cuisson": 25,
-  "cout": 10,
+  "cout": 9,
   "profil": "equilibre",
   "georges": "oui",
-  "georges_note": ""
+  "georges_note": "Tomates cerises coupées en quatre, et sa part sans graines de courge (risque d'étouffement avant 5 ans)."
 }
