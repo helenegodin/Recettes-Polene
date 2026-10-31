@@ -14,8 +14,8 @@ from pathlib import Path
 ROOT = Path(__file__).parent
 OUT = ROOT / "docs"
 TYPES = {"veau": "Bœuf, veau & agneau", "porc": "Porc & charcuterie", "volaille": "Volaille",
-         "poisson": "Poisson", "vege": "Végétarien", "apero": "Apéro", "dessert": "Dessert"}
-EXTRA = {"apero", "dessert"}
+         "poisson": "Poisson", "vege": "Végétarien", "apero": "Apéro", "dessert": "Dessert", "base": "Bases"}
+EXTRA = {"apero", "dessert", "base"}
 AISLES = ["Fruits & légumes", "Boucherie & poisson", "Frais & charcuterie", "Crèmerie & œufs", "Épicerie", "Cave"]
 JOURS = ["Lundi", "Mardi", "Mercredi", "Jeudi", "Vendredi", "Samedi", "Dimanche"]
 e = html.escape

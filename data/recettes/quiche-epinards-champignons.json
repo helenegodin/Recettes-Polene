@@ -1,16 +1,23 @@
 {
   "etapes": [
-    "Four 180 °C. Foncer le moule avec la pâte, réserver au frais.",
+    "Préparer la pâte brisée maison (fiche « Pâte brisée maison ») et la laisser reposer 20 min au frais.",
+    "Four 180 °C. Foncer le moule avec la pâte maison, réserver au frais.",
     "Sauter les champignons tranchés avec l'ail haché à feu vif, ajouter les épinards 2 min, assaisonner et tiédir ; ajouter le gruyère.",
     "Battre les œufs avec la crème, le lait, sel, poivre et muscade (et les aromates).",
     "Garniture dans le fond de tarte, verser l'appareil, cuire 35 à 40 min. Servir tiède."
   ],
   "ingredients": [
     {
-      "n": "pâte brisée",
-      "q": 1,
-      "r": "Frais & charcuterie",
-      "u": ""
+      "q": 200,
+      "u": "g",
+      "n": "farine T55",
+      "r": "Épicerie"
+    },
+    {
+      "q": 100,
+      "u": "g",
+      "n": "beurre",
+      "r": "Crèmerie & œufs"
     },
     {
       "n": "œufs",
@@ -72,7 +79,7 @@
   "portions": 6,
   "source": "Livre de cuisine, p. 187 (quiche n°5)",
   "type": "vege",
-  "prep": 20,
+  "prep": 35,
   "cuisson": 40,
   "cout": 10,
   "profil": "gourmand",

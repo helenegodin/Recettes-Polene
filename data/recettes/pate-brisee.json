@@ -1,0 +1,42 @@
+{
+  "nom": "Pâte brisée maison",
+  "type": "base",
+  "portions": 6,
+  "notes": "Pour un moule de 26 cm (environ 350 g de pâte). À utiliser pour toutes les quiches.",
+  "source": "https://lacuisinedannie.20minutes.fr",
+  "ingredients": [
+    {
+      "q": 200,
+      "u": "g",
+      "n": "farine T55",
+      "r": "Épicerie"
+    },
+    {
+      "q": 100,
+      "u": "g",
+      "n": "beurre",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": 0.5,
+      "u": "c. à c.",
+      "n": "sel fin",
+      "r": "Épicerie"
+    }
+  ],
+  "etapes": [
+    "Mettre la farine, le sel et le beurre coupé en petits morceaux dans un saladier.",
+    "Effriter le tout à la main.",
+    "Ajouter environ 50 ml d'eau petit à petit, jusqu'à une boule souple qui ne colle plus.",
+    "Plier la pâte en 4 en l'écrasant sur le plan de travail fariné ; couvrir de farine et d'un torchon.",
+    "Laisser reposer 20 à 30 min au frais (au moins 20 min).",
+    "Étaler sur 3 mm d'épaisseur en tournant d'un quart de tour régulièrement.",
+    "Foncer le moule légèrement graissé, couper l'excédent sur les bords, piquer le fond à la fourchette."
+  ],
+  "prep": 15,
+  "cuisson": 0,
+  "cout": 1,
+  "profil": "",
+  "georges": "oui",
+  "georges_note": ""
+}

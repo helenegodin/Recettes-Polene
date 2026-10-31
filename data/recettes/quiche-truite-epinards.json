@@ -6,10 +6,16 @@
   "source": "Recette maison (base quiche du livre)",
   "ingredients": [
     {
-      "q": 1,
-      "u": "",
-      "n": "pâte brisée",
-      "r": "Frais & charcuterie"
+      "q": 200,
+      "u": "g",
+      "n": "farine T55",
+      "r": "Épicerie"
+    },
+    {
+      "q": 100,
+      "u": "g",
+      "n": "beurre",
+      "r": "Crèmerie & œufs"
     },
     {
       "q": 2,
@@ -67,14 +73,15 @@
     }
   ],
   "etapes": [
-    "Four à 180 °C. Foncer le moule avec la pâte, piquer le fond, réserver au frais.",
+    "Préparer la pâte brisée maison (fiche « Pâte brisée maison ») et la laisser reposer 20 min au frais.",
+    "Four à 180 °C. Foncer le moule avec la pâte maison, piquer le fond, réserver au frais.",
     "Cuire les pavés de truite 5 min à la poêle, retirer la peau et les arêtes, émietter.",
     "Faire tomber les épinards 2 min avec l'huile et l'ail haché ; bien les presser et les hacher grossièrement.",
     "Battre les œufs avec la crème, le lait, la muscade, sel et poivre.",
     "Répartir épinards et truite sur le fond de tarte, parsemer de gruyère, verser l'appareil.",
     "Cuire 35 à 40 min, jusqu'à ce que la quiche soit dorée et bien prise."
   ],
-  "prep": 25,
+  "prep": 40,
   "cuisson": 40,
   "cout": 15,
   "profil": "gourmand",
