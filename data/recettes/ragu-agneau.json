@@ -1,0 +1,90 @@
+{
+  "nom": "Ragù d'agneau express aux anchois",
+  "type": "veau",
+  "portions": 6,
+  "notes": "Marche aussi avec du porc ou du bœuf haché. La sauce se garde 3 jours au frais ou 2 mois au congélateur.",
+  "source": "Alison Roman, Something from Nothing, p. 244",
+  "auteur": "Alison Roman",
+  "ingredients": [
+    {
+      "q": 2,
+      "u": "c. à s.",
+      "n": "huile d'olive",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "",
+      "n": "oignon jaune",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 4,
+      "u": "gousses",
+      "n": "ail",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": null,
+      "u": "",
+      "n": "piment en flocons (facultatif)",
+      "r": "Épicerie"
+    },
+    {
+      "q": 2,
+      "u": "",
+      "n": "filets d'anchois (ou ½ c. à c. de nuoc-mâm)",
+      "r": "Épicerie"
+    },
+    {
+      "q": 2,
+      "u": "c. à s.",
+      "n": "concentré de tomates",
+      "r": "Épicerie"
+    },
+    {
+      "q": 450,
+      "u": "g",
+      "n": "agneau haché",
+      "r": "Boucherie & poisson"
+    },
+    {
+      "q": 800,
+      "u": "g",
+      "n": "tomates concassées (1 grande boîte)",
+      "r": "Épicerie"
+    },
+    {
+      "q": 350,
+      "u": "g",
+      "n": "pâtes (longues ou tubes)",
+      "r": "Épicerie"
+    },
+    {
+      "q": null,
+      "u": "",
+      "n": "parmesan ou pecorino",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": null,
+      "u": "",
+      "n": "marjolaine, origan ou thym (facultatif)",
+      "r": "Fruits & légumes"
+    }
+  ],
+  "etapes": [
+    "Chauffer l'huile dans une grande cocotte à feu moyen. Ajouter l'oignon et l'ail hachés, sel, poivre, et cuire 5 à 8 min jusqu'à ce que l'oignon soit fondant. Ajouter le piment et les anchois, 1 à 2 min, pour les faire fondre.",
+    "Ajouter le concentré et cuire 2 à 3 min en remuant, pour qu'il accroche et caramélise un peu.",
+    "Ajouter l'agneau, sel, poivre ; l'émietter et cuire 8 à 10 min en remuant souvent, jusqu'à ce qu'il dore.",
+    "Ajouter les tomates en raclant le fond, rincer la boîte avec un demi-volume d'eau et l'ajouter. Saler, poivrer, porter à frémissement, puis cuire à feu moyen-doux 25 à 30 min jusqu'à épaississement.",
+    "Cuire les pâtes un peu avant al dente et garder 25 cl d'eau de cuisson.",
+    "Mélanger la sauce et les pâtes avec 12 cl d'eau de cuisson, 2 à 3 min à feu moyen. Servir avec beaucoup de fromage et des herbes."
+  ],
+  "prep": 10,
+  "cuisson": 50,
+  "cout": 15,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": "Sans piment pour lui."
+}

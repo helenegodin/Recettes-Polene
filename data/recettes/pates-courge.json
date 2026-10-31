@@ -1,0 +1,76 @@
+{
+  "nom": "Pâtes à la courge, piment et ail grillé",
+  "type": "vege",
+  "portions": 4,
+  "notes": "Avec une salade d'automne (chicorée, pommes ou poires).",
+  "source": "Alison Roman, Something from Nothing, p. 208",
+  "auteur": "Alison Roman",
+  "ingredients": [
+    {
+      "q": 60,
+      "u": "g",
+      "n": "beurre doux",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": 2,
+      "u": "c. à s.",
+      "n": "huile d'olive",
+      "r": "Épicerie"
+    },
+    {
+      "q": 7,
+      "u": "gousses",
+      "n": "ail",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 1,
+      "u": "c. à c.",
+      "n": "piment en flocons",
+      "r": "Épicerie"
+    },
+    {
+      "q": null,
+      "u": "",
+      "n": "sauge, thym ou romarin (facultatif)",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 350,
+      "u": "g",
+      "n": "courge épluchée (butternut, potimaron…)",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 400,
+      "u": "g",
+      "n": "petites pâtes courtes",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "c. à c.",
+      "n": "vinaigre de xérès ou de vin blanc",
+      "r": "Épicerie"
+    },
+    {
+      "q": null,
+      "u": "",
+      "n": "parmesan, pecorino, ricotta ou burrata",
+      "r": "Crèmerie & œufs"
+    }
+  ],
+  "etapes": [
+    "Faire fondre le beurre dans une grande cocotte à feu moyen jusqu'à ce qu'il mousse et blondisse, 3 à 4 min. Ajouter l'huile, l'ail émincé, le piment et les herbes, et cuire 3 à 4 min jusqu'à ce que l'ail soit doré et croustillant. Retirer l'ail et la moitié du gras dans un petit bol.",
+    "Toujours à feu moyen, ajouter la courge en dés, sel, poivre, et cuire 12 à 15 min, jusqu'à ce qu'elle soit très tendre et dorée par endroits.",
+    "Cuire les pâtes bien al dente et garder 50 cl d'eau de cuisson. Ajouter les pâtes et 25 cl d'eau à la courge et mélanger sans arrêt, jusqu'à ce que la courge fonde en purée et enrobe les pâtes ; rajouter de l'eau 6 cl à la fois.",
+    "Ajouter le vinaigre et rectifier sel, poivre et piment. Servir avec le fromage, une cuillère d'huile à l'ail et au piment, et du poivre."
+  ],
+  "prep": 15,
+  "cuisson": 30,
+  "cout": 8,
+  "profil": "equilibre",
+  "georges": "adapter",
+  "georges_note": "Faire l'huile à l'ail sans piment, et n'ajouter le piment que dans les assiettes des adultes."
+}

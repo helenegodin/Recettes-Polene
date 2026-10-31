@@ -77,3 +77,4 @@ section{display:flex;flex-direction:column;gap:10px}
 .g-non{color:#fff;background:#b3412f;border-color:transparent}
 .note-geo{margin:0;padding:10px 14px;border-radius:var(--r);background:var(--warn-bg);color:var(--ink);font-size:.92rem}
 .t-base{background:var(--muted)}
+.p-auteur{color:#fff;background:#7a4fa3;border-color:transparent}

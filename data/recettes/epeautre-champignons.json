@@ -1,0 +1,77 @@
+{
+  "nom": "Épeautre aux champignons, poireaux croustillants et crème",
+  "type": "vege",
+  "portions": 4,
+  "notes": "Se suffit à lui-même ; on peut ajouter une poêlée de verdure ou des saucisses rôties.",
+  "source": "Alison Roman, Something from Nothing, p. 184",
+  "auteur": "Alison Roman",
+  "ingredients": [
+    {
+      "q": 6,
+      "u": "cl",
+      "n": "huile d'olive",
+      "r": "Épicerie"
+    },
+    {
+      "q": 4,
+      "u": "",
+      "n": "poireaux moyens (blanc et vert clair)",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 450,
+      "u": "g",
+      "n": "champignons (pleurotes, shiitakés, de Paris…)",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 320,
+      "u": "g",
+      "n": "épeautre perlé (ou orge perlée)",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "l",
+      "n": "bouillon de légumes ou de volaille",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "botte",
+      "n": "ciboulette",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 1,
+      "u": "botte",
+      "n": "aneth",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 1,
+      "u": "",
+      "n": "citrons",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": null,
+      "u": "",
+      "n": "crème fraîche épaisse ou yaourt grec",
+      "r": "Crèmerie & œufs"
+    }
+  ],
+  "etapes": [
+    "Chauffer l'huile à feu moyen-vif dans une grande cocotte. Ajouter la moitié des poireaux émincés et la moitié des champignons déchirés, sel, poivre. Cuire 12 à 15 min en remuant de temps en temps, jusqu'à ce qu'ils soient dorés et croustillants.",
+    "Les retirer à l'écumoire en laissant l'huile. Rajouter un peu d'huile et cuire de la même façon le reste des poireaux et des champignons.",
+    "Sans nettoyer la cocotte, ajouter l'épeautre, saler, poivrer et le faire griller 5 min en remuant. Ajouter le bouillon et 50 cl d'eau.",
+    "Porter à frémissement, puis cuire à feu moyen-doux 20 à 25 min en remuant de temps en temps, jusqu'à ce que l'épeautre soit cuit et le liquide presque absorbé (texture de risotto). Hors du feu, ajouter la moitié de la ciboulette.",
+    "Mélanger l'aneth, le reste de ciboulette et 1 c. à s. de zeste de citron. Servir l'épeautre avec une cuillère de crème, les champignons et poireaux et le mélange d'herbes, avec des quartiers de citron."
+  ],
+  "prep": 15,
+  "cuisson": 55,
+  "cout": 14,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": ""
+}

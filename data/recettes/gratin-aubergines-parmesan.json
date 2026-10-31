@@ -1,0 +1,103 @@
+{
+  "nom": "Petit gratin d'aubergines au parmesan",
+  "type": "vege",
+  "portions": 2,
+  "notes": "Recette pour 2 : doubler pour la famille (plat de 2 litres). On n'utilise que la moitié de la sauce tomate : garder le reste pour des pâtes. Anchois facultatifs. Avec une salade bien acidulée.",
+  "source": "Alison Roman, Something from Nothing, p. 240",
+  "auteur": "Alison Roman",
+  "ingredients": [
+    {
+      "q": 450,
+      "u": "g",
+      "n": "aubergine (1 grosse)",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 12,
+      "u": "cl",
+      "n": "huile d'olive",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "",
+      "n": "petit oignon",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 4,
+      "u": "gousses",
+      "n": "ail",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": null,
+      "u": "",
+      "n": "piment en flocons (facultatif)",
+      "r": "Épicerie"
+    },
+    {
+      "q": 4,
+      "u": "",
+      "n": "filets d'anchois (facultatif)",
+      "r": "Épicerie"
+    },
+    {
+      "q": 800,
+      "u": "g",
+      "n": "tomates pelées entières (1 grande boîte)",
+      "r": "Épicerie"
+    },
+    {
+      "q": 40,
+      "u": "g",
+      "n": "chapelure panko",
+      "r": "Épicerie"
+    },
+    {
+      "q": 30,
+      "u": "g",
+      "n": "parmesan râpé",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": 0.5,
+      "u": "botte",
+      "n": "persil",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 2,
+      "u": "c. à s.",
+      "n": "câpres",
+      "r": "Épicerie"
+    },
+    {
+      "q": 2,
+      "u": "c. à s.",
+      "n": "origan ou marjolaine frais",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 225,
+      "u": "g",
+      "n": "mozzarella",
+      "r": "Crèmerie & œufs"
+    }
+  ],
+  "etapes": [
+    "Préchauffer le four à 230 °C.",
+    "Disposer l'aubergine en tranches de 1 à 2 cm sur une plaque, arroser de la moitié de l'huile, saler, poivrer. Rôtir 25 à 30 min en retournant à mi-cuisson, jusqu'à ce qu'elle soit fondante et très dorée des deux côtés.",
+    "Sauce : chauffer 2 c. à s. d'huile dans une casserole à feu moyen-vif, ajouter l'oignon et l'ail émincés, sel, poivre, et cuire 8 à 10 min jusqu'à ce qu'ils dorent.",
+    "Ajouter le piment et les anchois et les faire fondre. Verser le jus des tomates, puis écraser les tomates à la main dans la casserole. Assaisonner et laisser mijoter 15 à 30 min jusqu'à épaississement. Garder la moitié de la sauce de côté.",
+    "Chauffer les 2 c. à s. d'huile restantes dans une poêle à feu moyen, ajouter le panko, sel, poivre, et le dorer 5 à 7 min.",
+    "Montage dans un plat d'environ 1 litre : la moitié de la sauce, la moitié des aubergines, puis la moitié du parmesan, du persil, des câpres et de l'origan, la moitié de la chapelure et la moitié de la mozzarella. Recommencer et finir par la mozzarella.",
+    "Cuire 15 à 20 min au four, jusqu'à ce que le fromage dore et que ça bouillonne. Finir au persil, laisser tiédir un peu et servir à la cuillère."
+  ],
+  "prep": 25,
+  "cuisson": 60,
+  "cout": 12,
+  "profil": "gourmand",
+  "georges": "oui",
+  "georges_note": "Sans piment pour lui."
+}

@@ -1,0 +1,82 @@
+{
+  "nom": "Soupe dorée aux champignons, orzo et beurre",
+  "type": "vege",
+  "portions": 4,
+  "notes": "Avec une grosse tranche de pain grillé. Se garde quelques jours au frais (allonger d'eau).",
+  "source": "Alison Roman, Something from Nothing, p. 88",
+  "auteur": "Alison Roman",
+  "ingredients": [
+    {
+      "q": 3,
+      "u": "c. à s.",
+      "n": "huile d'olive",
+      "r": "Épicerie"
+    },
+    {
+      "q": 340,
+      "u": "g",
+      "n": "champignons variés (pleurotes, shiitakés, girolles…)",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 6,
+      "u": "gousses",
+      "n": "ail",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 0.5,
+      "u": "c. à c.",
+      "n": "curcuma",
+      "r": "Épicerie"
+    },
+    {
+      "q": 0.25,
+      "u": "c. à c.",
+      "n": "piment en flocons",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1.4,
+      "u": "l",
+      "n": "eau ou bouillon",
+      "r": "Épicerie"
+    },
+    {
+      "q": 140,
+      "u": "g",
+      "n": "orzo",
+      "r": "Épicerie"
+    },
+    {
+      "q": 2,
+      "u": "c. à c.",
+      "n": "nuoc-mâm ou sauce soja",
+      "r": "Épicerie"
+    },
+    {
+      "q": 30,
+      "u": "g",
+      "n": "beurre doux",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": null,
+      "u": "",
+      "n": "fleur de sel",
+      "r": "Épicerie"
+    }
+  ],
+  "etapes": [
+    "Chauffer l'huile à feu moyen-vif dans une grande cocotte. Ajouter la moitié des champignons déchirés, sel, poivre, et cuire 6 à 8 min jusqu'à ce qu'ils dorent (rajouter de l'huile si besoin). Ajouter le reste des champignons et l'ail émincé, saler, poivrer, et cuire encore 6 à 8 min, jusqu'à ce que tout soit bien doré et accroche un peu au fond.",
+    "Ajouter le curcuma et le piment, 1 à 2 min. Verser l'eau, porter à frémissement, puis ajouter l'orzo et le nuoc-mâm. Assaisonner.",
+    "Frémir 15 à 20 min, jusqu'à ce que l'orzo soit cuit et le bouillon parfumé.",
+    "Ajouter le beurre et rectifier sel, poivre et nuoc-mâm. Servir avec un peu de piment, de fleur de sel et une noisette de beurre."
+  ],
+  "prep": 10,
+  "cuisson": 35,
+  "cout": 10,
+  "profil": "equilibre",
+  "georges": "adapter",
+  "georges_note": "Ne pas mettre le piment dans la casserole : l'ajouter dans les bols des adultes."
+}

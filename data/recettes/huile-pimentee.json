@@ -1,0 +1,68 @@
+{
+  "nom": "Huile pimentée express",
+  "type": "base",
+  "portions": 1,
+  "notes": "Pour environ 50 cl. Se garde 1 mois au frais ; rajouter de l'huile quand le bocal baisse.",
+  "source": "Alison Roman, Something from Nothing",
+  "auteur": "Alison Roman",
+  "ingredients": [
+    {
+      "q": 36,
+      "u": "cl",
+      "n": "huile neutre",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "",
+      "n": "grosse échalote",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 4,
+      "u": "gousses",
+      "n": "ail",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 2,
+      "u": "c. à s.",
+      "n": "piment en flocons",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "c. à s.",
+      "n": "piment d'Alep ou gochugaru",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "c. à s.",
+      "n": "graines de fenouil",
+      "r": "Épicerie"
+    },
+    {
+      "q": 2,
+      "u": "c. à s.",
+      "n": "graines de sésame (facultatif)",
+      "r": "Épicerie"
+    },
+    {
+      "q": 2,
+      "u": "c. à c.",
+      "n": "fleur de sel (facultatif)",
+      "r": "Épicerie"
+    }
+  ],
+  "etapes": [
+    "Mettre l'huile, l'échalote et l'ail très finement hachés, les piments, le fenouil et le sésame dans une petite casserole. Chauffer à feu moyen-doux jusqu'à ce que ça grésille (4 à 6 min), puis baisser à feu très doux.",
+    "Cuire 20 à 25 min en faisant tourner la casserole de temps en temps, jusqu'à ce que les bulles se calment, que l'échalote et l'ail soient dorés et l'huile orange vif. Laisser refroidir, ajouter la fleur de sel et conserver en bocal."
+  ],
+  "prep": 10,
+  "cuisson": 30,
+  "cout": 4,
+  "profil": "",
+  "georges": "non",
+  "georges_note": "Très piquant."
+}

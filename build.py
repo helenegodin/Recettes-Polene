@@ -74,6 +74,8 @@ def chips(r):
     out = ""
     if r.get("profil") in PROFILS:
         out += f'<span class="pill p-{r["profil"]}">{PROFILS[r["profil"]]}</span>'
+    if r.get("auteur"):
+        out += f'<span class="pill p-auteur">{e(r["auteur"].split()[0])}</span>'
     if r.get("georges") in GEO:
         out += f'<span class="pill g-{r["georges"]}">{GEO[r["georges"]]}</span>'
     return out
@@ -201,7 +203,7 @@ def recipes_index(rs):
         if not items:
             continue
         rows = "".join(
-            f'<li class="row" data-q="{e((r["nom"] + " " + " ".join(i["n"] for i in r.get("ingredients") or [])).lower())}">'
+            f'<li class="row" data-q="{e((r["nom"] + " " + r.get("auteur", "") + " " + " ".join(i["n"] for i in r.get("ingredients") or [])).lower())}">'
             f'<a class="main" href="recettes/{r["slug"]}.html"><span class="name">{e(r["nom"])}'
             f'{"" if r.get("ingredients") else " <span class=badge>à compléter</span>"}</span>'
             f'<span class="sub">pour {r.get("portions") or 4}{" · " + e(infos(r)) if infos(r) else ""}</span><span class="chips">{chips(r)}</span></a><span class="chev">›</span></li>'

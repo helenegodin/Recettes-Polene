@@ -1,0 +1,65 @@
+{
+  "nom": "Poulet et pois chiches rôtis à l'huile d'olive",
+  "type": "volaille",
+  "portions": 4,
+  "notes": "Se prépare 3 jours à l'avance et se réchauffe 20 à 25 min à 160 °C. Avec une salade verte à la moutarde. Fenouil, courge ou navets possibles à la place des carottes. Garder l'huile parfumée (1 mois au frais) pour cuire œufs ou légumes.",
+  "source": "Alison Roman, Something from Nothing, p. 256",
+  "auteur": "Alison Roman",
+  "ingredients": [
+    {
+      "q": 1.1,
+      "u": "kg",
+      "n": "cuisses de poulet avec os et peau",
+      "r": "Boucherie & poisson"
+    },
+    {
+      "q": 2,
+      "u": "têtes",
+      "n": "ail",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 1,
+      "u": "boîte",
+      "n": "pois chiches (400 g)",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "",
+      "n": "citrons",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 0.5,
+      "u": "botte",
+      "n": "origan",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 1,
+      "u": "botte",
+      "n": "carottes fanes fines",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 24,
+      "u": "cl",
+      "n": "huile d'olive",
+      "r": "Épicerie"
+    }
+  ],
+  "etapes": [
+    "Préchauffer le four à 160 °C.",
+    "Saler et poivrer le poulet, le disposer à plat et bien serré dans un grand plat peu profond (2,5 à 3 litres). Répartir autour les têtes d'ail coupées en deux, les pois chiches égouttés, le citron en fines rondelles épépinées et l'origan.",
+    "Ajouter les carottes coupées en deux dans la longueur, en les laissant un peu dépasser. Verser l'huile sur l'ensemble, saler et poivrer.",
+    "Rôtir à découvert 1 h 30 à 1 h 50, jusqu'à ce que le poulet se détache presque de l'os et que les légumes et le citron soient caramélisés.",
+    "Laisser tiédir un peu et servir avec un peu d'origan."
+  ],
+  "prep": 15,
+  "cuisson": 110,
+  "cout": 14,
+  "profil": "gourmand",
+  "georges": "oui",
+  "georges_note": "Retirer les os et la peau, et écraser légèrement ses pois chiches."
+}

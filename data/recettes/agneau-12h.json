@@ -1,0 +1,70 @@
+{
+  "nom": "Agneau de 12 heures et pommes de terre au vin blanc",
+  "type": "veau",
+  "portions": 8,
+  "notes": "Pour un week-end ou une fête : 12 h de four, à lancer la veille au soir. Se prépare 3 à 4 jours à l'avance et se réchauffe 35 à 40 min à 135 °C. Parfait avec les pois chiches mijotés.",
+  "source": "Alison Roman, Something from Nothing, p. 276",
+  "auteur": "Alison Roman",
+  "ingredients": [
+    {
+      "q": 2,
+      "u": "kg",
+      "n": "épaule ou gigot d'agneau avec os (ou 1,5 kg désossé)",
+      "r": "Boucherie & poisson"
+    },
+    {
+      "q": 900,
+      "u": "g",
+      "n": "pommes de terre à chair ferme",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 2,
+      "u": "têtes",
+      "n": "ail",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 2,
+      "u": "",
+      "n": "citrons",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 1,
+      "u": "botte",
+      "n": "origan, marjolaine ou thym",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 75,
+      "u": "cl",
+      "n": "vin blanc sec (1 bouteille)",
+      "r": "Cave"
+    },
+    {
+      "q": null,
+      "u": "",
+      "n": "huile d'olive",
+      "r": "Épicerie"
+    },
+    {
+      "q": null,
+      "u": "",
+      "n": "herbes tendres : persil, aneth, ciboulette, menthe (facultatif)",
+      "r": "Fruits & légumes"
+    }
+  ],
+  "etapes": [
+    "Saler l'agneau (environ 1 c. à c. de sel fin par kilo) et le poivrer. Si possible, le laisser 12 à 24 h au frigo.",
+    "Préchauffer le four à 135 °C. Mettre l'agneau dans une grande cocotte en fonte avec couvercle. Répartir autour les pommes de terre (entières ou coupées en deux), les têtes d'ail et les citrons coupés en deux dans la largeur, et l'origan. Verser le vin et un bon filet d'huile d'olive. Couvrir (ou fermer avec du papier aluminium bien serré).",
+    "Enfourner sans ouvrir ni toucher pendant au moins 10 h, plutôt 12 h pour une grosse pièce avec os, environ 8 h pour une pièce désossée. L'agneau est prêt quand il est doré et s'effiloche facilement.",
+    "Laisser tiédir, effilocher l'agneau en gros morceaux et le napper de sauce, de pommes de terre et d'ail. Finir avec les herbes et un filet d'huile d'olive."
+  ],
+  "prep": 15,
+  "cuisson": 720,
+  "cout": 55,
+  "profil": "gourmand",
+  "georges": "oui",
+  "georges_note": "Le vin cuit 12 heures, l'alcool s'évapore presque entièrement. Effilocher finement sa viande."
+}

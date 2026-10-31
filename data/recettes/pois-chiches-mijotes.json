@@ -1,0 +1,63 @@
+{
+  "nom": "Pois chiches fondants mijotés à l'échalote et au piment",
+  "type": "vege",
+  "portions": 6,
+  "notes": "Version rapide : 3 boîtes de pois chiches (400 g), 50 cl d'eau, four à 200 °C environ 2 h. Se garde 5 jours au frais et 3 mois au congélateur. Parfait avec l'agneau de 12 heures.",
+  "source": "Alison Roman, Something from Nothing",
+  "auteur": "Alison Roman",
+  "ingredients": [
+    {
+      "q": 450,
+      "u": "g",
+      "n": "pois chiches secs",
+      "r": "Épicerie"
+    },
+    {
+      "q": 3,
+      "u": "",
+      "n": "grosses échalotes (ou 1 gros oignon rouge)",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 0.5,
+      "u": "botte",
+      "n": "thym, origan ou romarin",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 1,
+      "u": "c. à c.",
+      "n": "piment en flocons (Alep ou gochugaru)",
+      "r": "Épicerie"
+    },
+    {
+      "q": 8,
+      "u": "cl",
+      "n": "huile d'olive",
+      "r": "Épicerie"
+    },
+    {
+      "q": null,
+      "u": "",
+      "n": "pâte de piment de Calabre (facultatif)",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "",
+      "n": "citrons",
+      "r": "Fruits & légumes"
+    }
+  ],
+  "etapes": [
+    "Préchauffer le four à 160 °C.",
+    "Dans une grande cocotte allant au four, mettre les pois chiches secs, les échalotes en rondelles de 5 mm, les herbes et le piment. Saler assez généreusement, poivrer et arroser d'huile d'olive. Couvrir d'environ 2 l d'eau (7 à 8 cm au-dessus des pois chiches). Couvrir et enfourner 5 à 6 h sans y toucher.",
+    "Servir les pois chiches avec un peu de bouillon, un peu de piment de Calabre si on aime et un filet de citron."
+  ],
+  "prep": 10,
+  "cuisson": 360,
+  "cout": 6,
+  "profil": "equilibre",
+  "georges": "adapter",
+  "georges_note": "Piment : le retirer de la cocotte, et pas de piment de Calabre pour lui."
+}

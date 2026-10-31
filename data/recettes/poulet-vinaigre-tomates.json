@@ -1,0 +1,78 @@
+{
+  "nom": "Poulet pimenté au vinaigre sur tomates",
+  "type": "volaille",
+  "portions": 4,
+  "notes": "Les restes font une très bonne soupe : effilocher le poulet, ajouter de l'eau ou du bouillon et des herbes. Bien meilleur avec des tomates de saison.",
+  "source": "Alison Roman, Something from Nothing, p. 259",
+  "auteur": "Alison Roman",
+  "ingredients": [
+    {
+      "q": 1.8,
+      "u": "kg",
+      "n": "morceaux de poulet avec peau et os (ou 1 poulet découpé)",
+      "r": "Boucherie & poisson"
+    },
+    {
+      "q": 2,
+      "u": "c. à s.",
+      "n": "huile d'olive",
+      "r": "Épicerie"
+    },
+    {
+      "q": 4,
+      "u": "gousses",
+      "n": "ail",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 0.75,
+      "u": "c. à c.",
+      "n": "piment en flocons (ou 1 c. à s. de pâte de piment de Calabre)",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "",
+      "n": "oignon rouge ou jaune",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 450,
+      "u": "g",
+      "n": "tomates",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 12,
+      "u": "cl",
+      "n": "vinaigre blanc",
+      "r": "Épicerie"
+    },
+    {
+      "q": 150,
+      "u": "g",
+      "n": "orzo, couscous perlé ou riz (cru)",
+      "r": "Épicerie"
+    },
+    {
+      "q": null,
+      "u": "",
+      "n": "fleur de sel",
+      "r": "Épicerie"
+    }
+  ],
+  "etapes": [
+    "Saler et poivrer le poulet. Chauffer l'huile dans une grande cocotte à feu moyen-vif. En plusieurs fois, dorer le poulet côté peau 8 à 10 min, puis 3 à 4 min de l'autre côté.",
+    "Réserver sur une assiette et recommencer avec le reste, en baissant le feu si besoin. Pendant ce temps, cuire l'orzo ou le riz.",
+    "Ajouter l'ail écrasé et le piment, 1 à 2 min. Ajouter les trois quarts de l'oignon émincé en raclant le fond, 4 à 6 min. Ajouter la moitié des tomates en tranches, sel, poivre, et cuire 3 à 5 min jusqu'à ce qu'elles éclatent.",
+    "Remettre le poulet, peau vers le haut. Ajouter le vinaigre et 12 cl d'eau, saler, poivrer, filet d'huile. Porter à frémissement, puis cuire à découvert à feu moyen-doux 12 à 15 min, jusqu'à ce que le poulet soit cuit.",
+    "Disposer le reste des tomates et de l'oignon sur un grand plat et saler.",
+    "Poser le poulet sur les tomates. Mélanger l'orzo cuit dans le jus de la cocotte, rectifier sel, poivre et vinaigre, et le servir autour. Finir avec un filet d'huile, de la fleur de sel et du poivre."
+  ],
+  "prep": 15,
+  "cuisson": 45,
+  "cout": 16,
+  "profil": "equilibre",
+  "georges": "adapter",
+  "georges_note": "Piment : en mettre moins ou servir sa part sans. Retirer les os."
+}

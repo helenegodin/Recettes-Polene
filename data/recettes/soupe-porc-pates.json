@@ -1,0 +1,83 @@
+{
+  "nom": "Soupe pimentée au porc, pâtes et parmesan",
+  "type": "porc",
+  "portions": 4,
+  "notes": "Variante : 450 g de chair à saucisse, sans fenouil ni piment. Si on la prépare à l'avance, garder les pâtes à part.",
+  "source": "Alison Roman, Something from Nothing, p. 80",
+  "auteur": "Alison Roman",
+  "ingredients": [
+    {
+      "q": 1,
+      "u": "c. à s.",
+      "n": "huile d'olive",
+      "r": "Épicerie"
+    },
+    {
+      "q": 450,
+      "u": "g",
+      "n": "porc haché",
+      "r": "Boucherie & poisson"
+    },
+    {
+      "q": 4,
+      "u": "gousses",
+      "n": "ail",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 1,
+      "u": "c. à s.",
+      "n": "graines de fenouil",
+      "r": "Épicerie"
+    },
+    {
+      "q": 0.5,
+      "u": "c. à c.",
+      "n": "piment en flocons",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1.4,
+      "u": "l",
+      "n": "bouillon de volaille ou de légumes",
+      "r": "Épicerie"
+    },
+    {
+      "q": 200,
+      "u": "g",
+      "n": "petites pâtes courtes (radiatori, tubetti…)",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "botte",
+      "n": "brocoli-rave (cime di rapa) ou chou kale",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": null,
+      "u": "",
+      "n": "parmesan ou pecorino (beaucoup)",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": 1,
+      "u": "",
+      "n": "citrons (facultatif)",
+      "r": "Fruits & légumes"
+    }
+  ],
+  "etapes": [
+    "Chauffer l'huile à feu moyen-vif dans une grande cocotte, ajouter le porc, sel, poivre. Le laisser dorer sans trop l'émietter au début, puis le casser en morceaux, certains petits et croustillants, d'autres plus gros. Après 8 à 10 min, ajouter l'ail émincé et cuire encore 4 à 5 min.",
+    "Ajouter le fenouil et le piment, 1 à 2 min. Verser le bouillon, saler, poivrer et porter à frémissement.",
+    "Pendant ce temps, cuire les pâtes dans l'eau salée, un peu avant al dente.",
+    "Après quelques minutes de frémissement, ajouter le brocoli-rave haché et les pâtes, 5 à 8 min. Rectifier l'assaisonnement.",
+    "Servir avec un filet d'huile d'olive, beaucoup de fromage râpé et un peu de citron."
+  ],
+  "prep": 10,
+  "cuisson": 35,
+  "cout": 13,
+  "profil": "gourmand",
+  "georges": "adapter",
+  "georges_note": "Piment : le supprimer (ou faire la variante à la chair à saucisse sans piment)."
+}

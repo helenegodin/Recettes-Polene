@@ -1,0 +1,77 @@
+{
+  "nom": "Pâtes aux échalotes caramélisées",
+  "type": "poisson",
+  "portions": 4,
+  "notes": "Contient des anchois. La moitié de la pâte d'échalotes se garde 1 mois au frais (pâtes, légumes rôtis, œufs, poulet).",
+  "source": "Alison Roman, Something from Nothing, p. 213",
+  "auteur": "Alison Roman",
+  "ingredients": [
+    {
+      "q": 6,
+      "u": "cl",
+      "n": "huile d'olive",
+      "r": "Épicerie"
+    },
+    {
+      "q": 6,
+      "u": "",
+      "n": "grosses échalotes (environ 340 g)",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 5,
+      "u": "gousses",
+      "n": "ail",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 1,
+      "u": "c. à c.",
+      "n": "piment en flocons",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "boîte",
+      "n": "anchois à l'huile (environ 12 filets)",
+      "r": "Épicerie"
+    },
+    {
+      "q": 130,
+      "u": "g",
+      "n": "concentré de tomates (1 tube)",
+      "r": "Épicerie"
+    },
+    {
+      "q": 400,
+      "u": "g",
+      "n": "pâtes longues (bucatini, spaghetti)",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "botte",
+      "n": "persil",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": null,
+      "u": "",
+      "n": "fleur de sel",
+      "r": "Épicerie"
+    }
+  ],
+  "etapes": [
+    "Chauffer l'huile dans une grande poêle ou une cocotte à feu moyen-vif. Ajouter les échalotes très finement émincées et 4 gousses d'ail en lamelles, sel, poivre. Cuire 15 à 20 min en remuant de temps en temps, jusqu'à ce que les échalotes soient fondantes et caramélisées.",
+    "Ajouter le piment et les anchois égouttés, environ 2 min, pour faire fondre les anchois.",
+    "Ajouter le concentré, sel, poivre, et cuire environ 2 min en remuant sans arrêt, jusqu'à ce qu'il fonce. Retirer du feu et mettre la moitié du mélange de côté pour une autre fois.",
+    "Cuire les pâtes très al dente et garder 50 cl d'eau de cuisson. Ajouter les pâtes et 25 cl d'eau dans la poêle avec le reste du mélange, et cuire 3 à 5 min à feu moyen-vif en remuant, jusqu'à ce que la sauce enrobe bien les pâtes.",
+    "Mélanger le persil haché avec la dernière gousse d'ail hachée, de la fleur de sel et du poivre, et en parsemer les pâtes."
+  ],
+  "prep": 15,
+  "cuisson": 30,
+  "cout": 9,
+  "profil": "gourmand",
+  "georges": "adapter",
+  "georges_note": "Sans piment pour lui ; les anchois rendent le plat salé : petite portion."
+}

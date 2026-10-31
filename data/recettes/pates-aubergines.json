@@ -1,0 +1,85 @@
+{
+  "nom": "Pâtes aux aubergines rôties et tomates cerises",
+  "type": "vege",
+  "portions": 6,
+  "notes": "Encore meilleures le lendemain, même froides.",
+  "source": "Alison Roman, Something from Nothing, p. 202",
+  "auteur": "Alison Roman",
+  "ingredients": [
+    {
+      "q": 900,
+      "u": "g",
+      "n": "aubergines (2 grosses)",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 18,
+      "u": "cl",
+      "n": "huile d'olive",
+      "r": "Épicerie"
+    },
+    {
+      "q": 60,
+      "u": "g",
+      "n": "chapelure panko",
+      "r": "Épicerie"
+    },
+    {
+      "q": 25,
+      "u": "g",
+      "n": "parmesan ou pecorino (+ pour servir)",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": 1,
+      "u": "botte",
+      "n": "persil et/ou basilic",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 4,
+      "u": "gousses",
+      "n": "ail",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 225,
+      "u": "g",
+      "n": "tomates cerises",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 2,
+      "u": "c. à s.",
+      "n": "concentré de tomates (ou harissa, gochujang)",
+      "r": "Épicerie"
+    },
+    {
+      "q": null,
+      "u": "",
+      "n": "piment en flocons (facultatif)",
+      "r": "Épicerie"
+    },
+    {
+      "q": 400,
+      "u": "g",
+      "n": "pâtes courtes (rigatoni, paccheri…)",
+      "r": "Épicerie"
+    }
+  ],
+  "etapes": [
+    "Préchauffer le four à 220 °C. Étaler les aubergines en tranches de 5 mm à 1 cm sur une plaque, saler, poivrer et arroser de 12 cl d'huile. Rôtir 45 à 50 min en retournant à mi-cuisson, jusqu'à ce qu'elles soient bien dorées des deux côtés.",
+    "Pendant ce temps, chauffer 3 c. à s. d'huile dans une grande poêle à feu moyen, ajouter le panko, sel, poivre, et le dorer 4 à 6 min. Ajouter le parmesan, mélanger, puis réserver dans un bol avec 1 à 2 c. à s. d'herbes hachées.",
+    "Essuyer la poêle, ajouter 2 c. à s. d'huile et l'ail émincé, 3 à 5 min à feu moyen-vif. Ajouter les tomates, le concentré et le piment, sel, poivre, et cuire 3 à 5 min jusqu'à ce que les tomates éclatent. Retirer du feu.",
+    "Ajouter les aubergines rôties dans la poêle et les écraser dans les tomates.",
+    "Cuire les pâtes un peu avant al dente et garder 50 cl d'eau de cuisson.",
+    "Ajouter les pâtes et 35 cl d'eau de cuisson dans la poêle, 3 à 5 min à feu moyen, jusqu'à une sauce épaisse et crémeuse (rajouter de l'eau si besoin).",
+    "Servir avec la chapelure, le reste des herbes et du fromage."
+  ],
+  "prep": 15,
+  "cuisson": 60,
+  "cout": 11,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": "Sans piment, et avec du concentré de tomates plutôt que de la harissa ou du gochujang."
+}

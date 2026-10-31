@@ -1,0 +1,77 @@
+{
+  "nom": "Soupe poireaux, pommes de terre et verdure à l'aneth",
+  "type": "vege",
+  "portions": 4,
+  "notes": "Se congèle (sans crème ni herbes). Délicieuse avec de la truite fumée ou des sardines.",
+  "source": "Alison Roman, Something from Nothing, p. 73",
+  "auteur": "Alison Roman",
+  "ingredients": [
+    {
+      "q": 2,
+      "u": "c. à s.",
+      "n": "huile d'olive",
+      "r": "Épicerie"
+    },
+    {
+      "q": 900,
+      "u": "g",
+      "n": "pommes de terre à chair ferme",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 2,
+      "u": "",
+      "n": "poireaux entiers (vert compris)",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 1.4,
+      "u": "l",
+      "n": "bouillon de légumes ou de volaille",
+      "r": "Épicerie"
+    },
+    {
+      "q": 200,
+      "u": "g",
+      "n": "chou kale, épinards ou blettes",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 4,
+      "u": "c. à s.",
+      "n": "crème fraîche épaisse",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": 2,
+      "u": "c. à c.",
+      "n": "vinaigre de vin blanc",
+      "r": "Épicerie"
+    },
+    {
+      "q": 4,
+      "u": "",
+      "n": "cébettes",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 1,
+      "u": "botte",
+      "n": "aneth",
+      "r": "Fruits & légumes"
+    }
+  ],
+  "etapes": [
+    "Chauffer l'huile dans une grande cocotte à feu moyen-vif. Ajouter les pommes de terre en rondelles de 1 cm et les poireaux émincés, sel, poivre.",
+    "Cuire 5 à 8 min en remuant, jusqu'à ce que les poireaux soient vert vif et commencent à suer. Ajouter le bouillon et frémir 30 à 40 min, jusqu'à ce que les pommes de terre se défassent. Les écraser grossièrement à la cuillère pour épaissir la soupe.",
+    "Ajouter la verdure et la laisser tomber.",
+    "Ajouter la crème et le vinaigre, 1 min. Rectifier sel, poivre et vinaigre.",
+    "Servir avec un peu de crème, les cébettes émincées, beaucoup d'aneth et du poivre."
+  ],
+  "prep": 15,
+  "cuisson": 50,
+  "cout": 8,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": ""
+}

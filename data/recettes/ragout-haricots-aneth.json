@@ -1,0 +1,76 @@
+{
+  "nom": "Ragoût de haricots blancs à l'aneth, chou et oignons frits",
+  "type": "vege",
+  "portions": 4,
+  "notes": "Se garde 5 jours au frais et se congèle très bien.",
+  "source": "Alison Roman, Something from Nothing, p. 65",
+  "auteur": "Alison Roman",
+  "ingredients": [
+    {
+      "q": 30,
+      "u": "g",
+      "n": "beurre doux",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": 2,
+      "u": "c. à s.",
+      "n": "huile d'olive",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "",
+      "n": "gros oignon jaune",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 2,
+      "u": "boîtes",
+      "n": "haricots blancs (400 g chacune)",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "l",
+      "n": "bouillon de légumes ou de volaille",
+      "r": "Épicerie"
+    },
+    {
+      "q": 250,
+      "u": "g",
+      "n": "chou blanc ou vert",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 2,
+      "u": "c. à s.",
+      "n": "vinaigre blanc (ou jus de citron)",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "botte",
+      "n": "aneth",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": null,
+      "u": "",
+      "n": "crème fraîche épaisse (facultatif)",
+      "r": "Crèmerie & œufs"
+    }
+  ],
+  "etapes": [
+    "Chauffer le beurre et l'huile dans une cocotte à feu moyen-vif. Ajouter l'oignon émincé finement, sel, poivre. Cuire 5 à 8 min en remuant peu, pour qu'il dore et devienne croustillant sans brûler. Réserver un quart des oignons à l'écumoire.",
+    "Ajouter les haricots égouttés et rincés, saler, poivrer. Écraser une partie des haricots à la cuillère pour libérer leur intérieur crémeux (c'est ce qui épaissit le ragoût), sans en faire une purée.",
+    "Verser le bouillon et laisser frémir 15 à 20 min, jusqu'à la texture voulue. Ajouter le chou émincé grossièrement et le vinaigre, mélanger. Frémir 10 à 15 min, jusqu'à ce que le chou soit tendre. Rectifier sel, poivre et vinaigre.",
+    "Hors du feu, ajouter la moitié de l'aneth haché. Servir avec le reste de l'aneth, les oignons frits, une noisette de beurre ou un filet d'huile d'olive, et un peu de crème."
+  ],
+  "prep": 10,
+  "cuisson": 45,
+  "cout": 9,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": ""
+}
