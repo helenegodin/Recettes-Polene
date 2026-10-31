@@ -118,6 +118,10 @@ def page(title, eyebrow, body, depth=0, current="", jsonld=None, h1=None):
         for key, href, ico, lbl in [("menus", "index.html", ICON_HOME, "Menus"),
                                     ("listes", "listes.html", ICON_CART, "Courses"),
                                     ("recettes", "recettes.html", ICON_REC, "Recettes")])
+    back = ""
+    if depth:
+        fb = {"recettes": "recettes.html", "listes": "listes.html"}.get(current, "index.html")
+        back = f'<a class="back" href="{p}{fb}" onclick="if(history.length>1&&document.referrer.indexOf(location.host)>-1){{history.back();return false}}">← Retour</a>'
     ld = f'<script type="application/ld+json">{json.dumps(jsonld, ensure_ascii=False)}</script>' if jsonld else ""
     return f"""<!doctype html>
 <html lang="fr"><head><meta charset="utf-8">
@@ -136,7 +140,7 @@ def page(title, eyebrow, body, depth=0, current="", jsonld=None, h1=None):
 {ld}
 </head><body>
 <div class="wrap">
-<header class="top"><div class="eyebrow">{e(eyebrow)}</div><h1>{e(h1 or title)}</h1></header>
+<header class="top">{back}<div class="eyebrow">{e(eyebrow)}</div><h1>{e(h1 or title)}</h1></header>
 {body}
 </div>
 <nav class="tabs" aria-label="Sections"><div class="in">{nav}</div></nav>
