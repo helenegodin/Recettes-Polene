@@ -1,81 +1,100 @@
 {
-  "etapes": [],
+  "nom": "Curry de légumes",
+  "type": "vege",
+  "portions": 6,
+  "notes": "Encore meilleur réchauffé le lendemain.",
+  "source": "Recette maison",
   "ingredients": [
     {
+      "q": 1,
+      "u": "",
       "n": "chou-fleur",
-      "q": null,
-      "r": "Fruits & légumes",
-      "u": ""
+      "r": "Fruits & légumes"
     },
     {
-      "n": "oignons jaunes",
-      "q": null,
-      "r": "Fruits & légumes",
-      "u": ""
+      "q": 1,
+      "u": "",
+      "n": "brocoli",
+      "r": "Fruits & légumes"
     },
     {
-      "n": "ail",
-      "q": null,
-      "r": "Fruits & légumes",
-      "u": ""
-    },
-    {
-      "n": "gingembre",
-      "q": null,
-      "r": "Fruits & légumes",
-      "u": ""
-    },
-    {
-      "n": "brocolis",
-      "q": null,
-      "r": "Fruits & légumes",
-      "u": ""
-    },
-    {
+      "q": 3,
+      "u": "",
       "n": "carottes",
-      "q": null,
-      "r": "Fruits & légumes",
-      "u": ""
+      "r": "Fruits & légumes"
     },
     {
-      "n": "champignons",
-      "q": null,
-      "r": "Fruits & légumes",
-      "u": ""
+      "q": 250,
+      "u": "g",
+      "n": "champignons de Paris",
+      "r": "Fruits & légumes"
     },
     {
-      "n": "pois chiches",
-      "q": null,
-      "r": "Épicerie",
-      "u": ""
+      "q": 2,
+      "u": "",
+      "n": "oignons jaunes",
+      "r": "Fruits & légumes"
     },
     {
+      "q": 3,
+      "u": "gousses",
+      "n": "ail",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 3,
+      "u": "cm",
+      "n": "gingembre frais",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 2,
+      "u": "c. à s.",
+      "n": "pâte de curry",
+      "r": "Épicerie"
+    },
+    {
+      "q": 400,
+      "u": "g",
+      "n": "pois chiches en conserve",
+      "r": "Épicerie"
+    },
+    {
+      "q": 40,
+      "u": "cl",
       "n": "lait de coco",
-      "q": null,
-      "r": "Épicerie",
-      "u": ""
+      "r": "Épicerie"
     },
     {
+      "q": 80,
+      "u": "g",
       "n": "noix de cajou",
-      "q": null,
-      "r": "Épicerie",
-      "u": ""
+      "r": "Épicerie"
     },
     {
-      "n": "curry",
-      "q": null,
-      "r": "Épicerie",
-      "u": ""
+      "q": 2,
+      "u": "c. à s.",
+      "n": "huile neutre",
+      "r": "Épicerie"
+    },
+    {
+      "q": 400,
+      "u": "g",
+      "n": "riz basmati",
+      "r": "Épicerie"
     }
   ],
-  "nom": "Curry de légumes",
-  "notes": "",
-  "portions": 6,
-  "type": "vege",
+  "etapes": [
+    "Détailler chou-fleur et brocoli en petits bouquets, couper les carottes en rondelles, émincer champignons et oignons, hacher l'ail, râper le gingembre.",
+    "Faire revenir les oignons 5 min dans l'huile, ajouter ail, gingembre et pâte de curry, remuer 1 à 2 min.",
+    "Ajouter carottes, chou-fleur et champignons, le lait de coco et 20 cl d'eau ; saler, couvrir et cuire 15 min.",
+    "Ajouter le brocoli et les pois chiches égouttés, 8 min à découvert. Pendant ce temps, cuire le riz.",
+    "Griller les noix de cajou 2 min à sec et en parsemer les assiettes des adultes."
+  ],
   "prep": 25,
   "cuisson": 30,
   "cout": 16,
   "profil": "equilibre",
   "georges": "adapter",
-  "georges_note": "Curry doux ; noix de cajou entières à retirer ou mixer (risque d'étouffement)."
+  "georges_note": "La pâte de curry peut piquer : en mettre moins ou prélever sa part avant ; pas de noix de cajou entières (risque d'étouffement)."
 }
