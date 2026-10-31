@@ -50,7 +50,13 @@
     {
       "q": 2,
       "u": "c. à s.",
-      "n": "pâte de curry",
+      "n": "pâte de curry orange",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "c. à s.",
+      "n": "pâte de miso",
       "r": "Épicerie"
     },
     {
@@ -86,9 +92,9 @@
   ],
   "etapes": [
     "Détailler chou-fleur et brocoli en petits bouquets, couper les carottes en rondelles, émincer champignons et oignons, hacher l'ail, râper le gingembre.",
-    "Faire revenir les oignons 5 min dans l'huile, ajouter ail, gingembre et pâte de curry, remuer 1 à 2 min.",
+    "Faire revenir les oignons 5 min dans l'huile, ajouter ail, gingembre et la pâte de curry orange, remuer 1 à 2 min.",
     "Ajouter carottes, chou-fleur et champignons, le lait de coco et 20 cl d'eau ; saler, couvrir et cuire 15 min.",
-    "Ajouter le brocoli et les pois chiches égouttés, 8 min à découvert. Pendant ce temps, cuire le riz.",
+    "Ajouter le brocoli et les pois chiches égouttés, 8 min à découvert. Hors du feu, délayer la pâte de miso dans une louche de sauce et la mélanger au curry. Pendant ce temps, cuire le riz.",
     "Griller les noix de cajou 2 min à sec et en parsemer les assiettes des adultes."
   ],
   "prep": 25,
