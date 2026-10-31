@@ -1,0 +1,64 @@
+{
+  "etapes": [
+    "Évider la base des endives, les cuire 15 à 20 min couvertes dans une sauteuse avec 30 g de beurre, l'ail écrasé, du sel et de l'eau à hauteur.",
+    "Les égoutter tête en bas, puis les sécher dans un torchon.",
+    "Béchamel : 60 g de beurre fondu + farine 3 à 4 min, ¼ du lait tiède puis le reste, 4 à 5 min ; sel, poivre, beaucoup de muscade.",
+    "Rouler chaque endive dans une tranche de jambon, napper de béchamel tiède, couvrir de comté râpé.",
+    "Gratiner quelques minutes sous le grill."
+  ],
+  "ingredients": [
+    {
+      "n": "endives",
+      "q": 8,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "jambon",
+      "q": 8,
+      "r": "Frais & charcuterie",
+      "u": "tranches"
+    },
+    {
+      "n": "beurre",
+      "q": 90,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "comté",
+      "q": 200,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "ail",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": "gousses"
+    },
+    {
+      "n": "lait entier",
+      "q": 1,
+      "r": "Crèmerie & œufs",
+      "u": "l"
+    },
+    {
+      "n": "farine",
+      "q": 60,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "noix de muscade",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Chicons au gratin",
+  "notes": "Servir avec une purée de pommes de terre.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 176 (Comme au bistrot)",
+  "type": "porc"
+}

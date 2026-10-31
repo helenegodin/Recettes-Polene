@@ -1,0 +1,137 @@
+{
+  "etapes": [
+    "Sortir les souris 30 min avant, les sécher, bien saler ; dorer 3 à 4 min par face dans 3 c. à s. d'huile, réserver.",
+    "Oignons émincés 5 min, puis ail écrasé et concentré 2 min.",
+    "Remettre les souris, carottes en tronçons, navets en quartiers, bouillon chaud, épices et un bouquet de la moitié du persil et de la coriandre ; mijoter 1 h 30 à couvert.",
+    "Ajouter poivron en lanières, courgettes en rondelles épaisses et pois chiches ; 30 min, retirer le bouquet.",
+    "Semoule + sel + huile, couvrir de 40 cl de bouillon de la cocotte, 5 min, égrener et ajouter le beurre.",
+    "Servir avec persil et coriandre ciselés, et la harissa."
+  ],
+  "ingredients": [
+    {
+      "n": "souris d'agneau",
+      "q": 4,
+      "r": "Boucherie & poisson",
+      "u": ""
+    },
+    {
+      "n": "carottes",
+      "q": 3,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "navets",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "poivron rouge",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "courgettes",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "pois chiches cuits",
+      "q": 200,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "oignons jaunes",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "ail",
+      "q": 4,
+      "r": "Fruits & légumes",
+      "u": "gousses"
+    },
+    {
+      "n": "concentré de tomates",
+      "q": 2,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "paprika doux",
+      "q": 1.5,
+      "r": "Épicerie",
+      "u": "c. à c."
+    },
+    {
+      "n": "curcuma",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à c."
+    },
+    {
+      "n": "cumin",
+      "q": 1.5,
+      "r": "Épicerie",
+      "u": "c. à c."
+    },
+    {
+      "n": "coriandre moulue",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à c."
+    },
+    {
+      "n": "bouquet de persil plat",
+      "q": 0.5,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "bouquet de coriandre",
+      "q": 0.5,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "semoule",
+      "q": 400,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "beurre",
+      "q": 30,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "bouillon de volaille",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "l"
+    },
+    {
+      "n": "harissa",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "huile d'olive",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Couscous d'agneau",
+  "notes": "2 h 30 de cuisson : plutôt le week-end.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 202",
+  "type": "veau"
+}

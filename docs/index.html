@@ -1,0 +1,28 @@
+<!doctype html>
+<html lang="fr"><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Menus de la maison</title>
+<meta name="theme-color" content="#2f6b5a">
+<meta name="robots" content="noindex,nofollow">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="icon" href="icon.svg" type="image/svg+xml">
+<link rel="apple-touch-icon" href="apple-touch-icon.png">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-title" content="Menus">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz,wght@12..96,700;12..96,800&family=Atkinson+Hyperlegible:wght@400;700&display=swap">
+<link rel="stylesheet" href="style.css">
+
+</head><body>
+<div class="wrap">
+<header class="top"><div class="eyebrow">Cette semaine</div><h1>Menus de la maison</h1></header>
+<div class="panel empty-state"><h2>Pas encore de menu</h2><p>Demande à Claude les menus de la semaine : ils apparaîtront ici avec la liste de courses à envoyer dans Bring.</p><a class="btn" href="recettes.html">Parcourir les recettes</a></div>
+</div>
+<nav class="tabs" aria-label="Sections"><div class="in"><a href="index.html" aria-current="page"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><rect x="3.5" y="5" width="17" height="15" rx="2"/><path d="M3.5 9.5h17M8 3v4M16 3v4"/></svg>Menus</a><a href="listes.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M4 6h2l2 10h10l2-7H7.2"/><circle cx="9.5" cy="19.5" r="1.2"/><circle cx="16.5" cy="19.5" r="1.2"/></svg>Courses</a><a href="recettes.html"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8"><path d="M5 4.5h11a2 2 0 0 1 2 2V20H7a2 2 0 0 1-2-2z"/><path d="M5 18a2 2 0 0 1 2-2h11M9 8.5h5M9 11.5h5"/></svg>Recettes</a></div></nav>
+<script>
+document.querySelectorAll('[data-bring]').forEach(function(a){
+  var u=new URL(a.getAttribute('data-bring'),location.href).href;
+  a.href='https://api.getbring.com/rest/bringrecipes/deeplink?url='+encodeURIComponent(u)+'&source=web&baseQuantity='+a.dataset.base+'&requestedQuantity='+a.dataset.base;
+});
+</script>
+</body></html>

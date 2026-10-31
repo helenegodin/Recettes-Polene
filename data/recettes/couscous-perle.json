@@ -1,0 +1,69 @@
+{
+  "etapes": [
+    "Émincer l'oignon, hacher l'ail, couper les carottes en dés, retirer la peau des merguez.",
+    "Colorer les merguez écrasées à la fourchette dans l'huile, ajouter oignon, ail et carottes 2 à 3 min.",
+    "Ajouter couscous, pulpe de tomates et la moitié du bouillon, sel, poivre ; mijoter 15 à 20 min en ajoutant le bouillon petit à petit comme un risotto.",
+    "2 min avant la fin, ajouter les épinards."
+  ],
+  "ingredients": [
+    {
+      "n": "couscous perlé",
+      "q": 150,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "merguez",
+      "q": 5,
+      "r": "Boucherie & poisson",
+      "u": ""
+    },
+    {
+      "n": "épinards",
+      "q": 300,
+      "r": "Fruits & légumes",
+      "u": "g"
+    },
+    {
+      "n": "carottes",
+      "q": 3,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "oignons jaunes",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "ail",
+      "q": 3,
+      "r": "Fruits & légumes",
+      "u": "gousses"
+    },
+    {
+      "n": "pulpe de tomates",
+      "q": 200,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "bouillon de volaille",
+      "q": 80,
+      "r": "Épicerie",
+      "u": "cl"
+    },
+    {
+      "n": "huile d'olive",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Couscous perlé, merguez et épinards",
+  "notes": "Express, une seule casserole.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 142",
+  "type": "veau"
+}

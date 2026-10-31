@@ -1,0 +1,21 @@
+{
+  "etapes": [],
+  "ingredients": [
+    {
+      "n": "truite",
+      "q": null,
+      "r": "Boucherie & poisson",
+      "u": ""
+    },
+    {
+      "n": "épinards",
+      "q": null,
+      "r": "Fruits & légumes",
+      "u": ""
+    }
+  ],
+  "nom": "Quiche truite épinards",
+  "notes": "",
+  "portions": 6,
+  "type": "poisson"
+}

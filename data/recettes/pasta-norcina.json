@@ -1,0 +1,70 @@
+{
+  "etapes": [
+    "Faire revenir l'oignon émincé et l'ail haché à l'huile d'olive jusqu'à ce que l'oignon soit translucide.",
+    "Ajouter la chair des saucisses, monter le feu et colorer.",
+    "Ajouter les champignons finement hachés, 2 min en remuant.",
+    "Déglacer au vin blanc, ajouter la crème, réduire quelques minutes ; saler, bien poivrer.",
+    "Cuire les pâtes al dente, les ajouter à la sauce avec une louche d'eau de cuisson et le parmesan. Servir avec parmesan et poivre."
+  ],
+  "ingredients": [
+    {
+      "n": "mezze rigatoni",
+      "q": 400,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "pleurotes (ou champignons de Paris)",
+      "q": 350,
+      "r": "Fruits & légumes",
+      "u": "g"
+    },
+    {
+      "n": "saucisses",
+      "q": 2,
+      "r": "Boucherie & poisson",
+      "u": ""
+    },
+    {
+      "n": "vin blanc",
+      "q": 15,
+      "r": "Cave",
+      "u": "cl"
+    },
+    {
+      "n": "crème fraîche",
+      "q": 4,
+      "r": "Crèmerie & œufs",
+      "u": "c. à s."
+    },
+    {
+      "n": "parmesan",
+      "q": 80,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "ail",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "gousse"
+    },
+    {
+      "n": "oignons jaunes",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "huile d'olive",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Pasta alla norcina",
+  "notes": "",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 96 (Psycho-pâtes)",
+  "type": "porc"
+}

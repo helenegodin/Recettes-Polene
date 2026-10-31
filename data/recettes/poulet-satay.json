@@ -1,0 +1,105 @@
+{
+  "etapes": [
+    "Dorer le poulet en morceaux 3 à 4 min à feu vif dans l'huile neutre ; ajouter ail et gingembre râpés et curry, 1 min.",
+    "Ajouter 2 c. à s. de soja et l'huile de sésame, 5 min jusqu'à cuisson à cœur.",
+    "Même poêle : beurre de cacahuète, lait de coco, 1 c. à s. de soja, 1 c. à s. de jus de citron vert, sauce piment, miel ; mijoter 3 min.",
+    "Servir avec riz basmati, coriandre, piment frais et cacahuètes concassées."
+  ],
+  "ingredients": [
+    {
+      "n": "cuisses de poulet désossées",
+      "q": 500,
+      "r": "Boucherie & poisson",
+      "u": "g"
+    },
+    {
+      "n": "ail",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": "gousses"
+    },
+    {
+      "n": "gingembre",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "cm"
+    },
+    {
+      "n": "curry en poudre",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "sauce soja",
+      "q": 3,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "huile de sésame",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "huile neutre",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "beurre de cacahuète",
+      "q": 150,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "lait de coco",
+      "q": 20,
+      "r": "Épicerie",
+      "u": "cl"
+    },
+    {
+      "n": "citron vert",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "sauce piment",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à c."
+    },
+    {
+      "n": "miel",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "riz basmati",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "coriandre fraîche",
+      "q": null,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "cacahuètes",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Poulet satay",
+  "notes": "Moins de 30 min. Servir avec du riz basmati.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 132",
+  "type": "volaille"
+}

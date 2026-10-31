@@ -1,0 +1,88 @@
+{
+  "etapes": [
+    "Sauce : ail à l'huile d'olive, tomates et la moitié du basilic, 20 min à feu doux ; assaisonner.",
+    "Faire tomber les épinards 2 min à l'huile, bien les presser et les hacher.",
+    "Farce : ricotta, épinards, zeste et jus de citron, 50 g de parmesan, l'œuf, muscade, sel, poivre.",
+    "Four 180 °C. Garnir les tubes, moitié de sauce au fond du plat, cannellonis, reste de sauce.",
+    "Mozzarella déchirée et 100 g de parmesan dessus, 30 min. Finir au basilic."
+  ],
+  "ingredients": [
+    {
+      "n": "tubes de cannelloni secs",
+      "q": 16,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "ricotta",
+      "q": 500,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "épinards frais",
+      "q": 300,
+      "r": "Fruits & légumes",
+      "u": "g"
+    },
+    {
+      "n": "citrons",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "parmesan râpé",
+      "q": 150,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "œufs",
+      "q": 1,
+      "r": "Crèmerie & œufs",
+      "u": ""
+    },
+    {
+      "n": "noix de muscade",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "tomates concassées",
+      "q": 800,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "ail",
+      "q": 3,
+      "r": "Fruits & légumes",
+      "u": "gousses"
+    },
+    {
+      "n": "basilic",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "botte"
+    },
+    {
+      "n": "huile d'olive",
+      "q": 2,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "mozzarella",
+      "q": 1,
+      "r": "Crèmerie & œufs",
+      "u": "boule"
+    }
+  ],
+  "nom": "Cannellonis ricotta, épinards et citron",
+  "notes": "",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 146",
+  "type": "vege"
+}

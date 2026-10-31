@@ -1,0 +1,132 @@
+{
+  "etapes": [
+    "Couper carottes, oignons et céleri en morceaux de 3 cm, les faire revenir à l'huile en cocotte avec le bouquet garni.",
+    "Ajouter les trois viandes, faire revenir 10 min en les écrasant.",
+    "Verser le vin, laisser réduire 15 min.",
+    "Ajouter le concentré et les tomates pelées écrasées, couvrir et mijoter 2 h 30. Retirer le bouquet garni.",
+    "Béchamel : beurre fondu + farine, puis le lait chaud petit à petit en fouettant, muscade, sel, poivre. La mélanger à la sauce.",
+    "Monter : sauce, pâtes, sauce, parmesan ; répéter et finir par sauce, parmesan et mozzarella.",
+    "Cuire 30 min au four à 180 °C. Servir avec la salade verte."
+  ],
+  "ingredients": [
+    {
+      "n": "bœuf haché",
+      "q": 500,
+      "r": "Boucherie & poisson",
+      "u": "g"
+    },
+    {
+      "n": "veau haché",
+      "q": 500,
+      "r": "Boucherie & poisson",
+      "u": "g"
+    },
+    {
+      "n": "chair à saucisse",
+      "q": 500,
+      "r": "Boucherie & poisson",
+      "u": "g"
+    },
+    {
+      "n": "carottes",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "oignons jaunes",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "céleri",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": "branches"
+    },
+    {
+      "n": "bouquet garni (laurier, romarin, thym)",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "vin rouge corsé",
+      "q": 50,
+      "r": "Cave",
+      "u": "cl"
+    },
+    {
+      "n": "concentré de tomates",
+      "q": 3,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "tomates pelées San Marzano (boîte)",
+      "q": 500,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "huile d'olive",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "lait entier",
+      "q": 60,
+      "r": "Crèmerie & œufs",
+      "u": "cl"
+    },
+    {
+      "n": "farine",
+      "q": 42,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "beurre doux",
+      "q": 42,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "noix de muscade",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "pâtes à lasagne",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "boîte"
+    },
+    {
+      "n": "parmesan",
+      "q": null,
+      "r": "Crèmerie & œufs",
+      "u": ""
+    },
+    {
+      "n": "mozzarella",
+      "q": 2,
+      "r": "Crèmerie & œufs",
+      "u": "boules"
+    },
+    {
+      "n": "salade verte",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    }
+  ],
+  "nom": "Lasagnes bolognaise",
+  "notes": "Toujours avec une salade verte. Mijotage 2 h 30 : plutôt le week-end.",
+  "portions": 6,
+  "source": "Livre de cuisine, p. 163 et béchamel p. 232",
+  "type": "veau"
+}

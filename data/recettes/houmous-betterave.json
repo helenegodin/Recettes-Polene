@@ -1,0 +1,51 @@
+{
+  "etapes": [
+    "Cuire la betterave 1 h à 180 °C en papillote avec 2 c. à s. d'huile d'olive.",
+    "La peler et la couper en morceaux.",
+    "Mixer 5 min pois chiches, betterave, jus de citron, 2 c. à s. d'huile, ail et tahini ; ajouter 3 glaçons pour plus de lissé.",
+    "Servir avec un filet d'huile et quelques pois chiches."
+  ],
+  "ingredients": [
+    {
+      "n": "betterave crue",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "ail",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "gousse"
+    },
+    {
+      "n": "citrons",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "huile d'olive",
+      "q": 4,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "pois chiches cuits",
+      "q": 250,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "tahini",
+      "q": 5,
+      "r": "Épicerie",
+      "u": "c. à s."
+    }
+  ],
+  "nom": "Houmous betterave",
+  "notes": "Apéro. Cuisson de la betterave 1 h.",
+  "portions": 4,
+  "source": "Livre de cuisine, apéro n°3",
+  "type": "apero"
+}

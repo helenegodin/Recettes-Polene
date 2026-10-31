@@ -1,0 +1,39 @@
+{
+  "etapes": [
+    "Four 200 °C. Pommes épluchées, sans trognon, tranchées à la mandoline (2 mm max).",
+    "Pâte piquée sur papier cuisson, moitié du beurre en dés et un tiers de la cassonade.",
+    "Pommes en rosaces serrées, reste du beurre en dés et un tiers de la cassonade.",
+    "Cuire 20 à 25 min, saupoudrer le dernier tiers de cassonade et 2 à 3 min sous le grill."
+  ],
+  "ingredients": [
+    {
+      "n": "pâte feuilletée pur beurre",
+      "q": 1,
+      "r": "Frais & charcuterie",
+      "u": ""
+    },
+    {
+      "n": "pommes golden",
+      "q": 6,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "beurre",
+      "q": 50,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "cassonade",
+      "q": 50,
+      "r": "Épicerie",
+      "u": "g"
+    }
+  ],
+  "nom": "Tarte fine aux pommes",
+  "notes": "",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 234",
+  "type": "dessert"
+}

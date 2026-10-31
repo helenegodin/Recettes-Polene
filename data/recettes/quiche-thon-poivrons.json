@@ -1,0 +1,87 @@
+{
+  "etapes": [
+    "Four 180 °C. Foncer le moule avec la pâte, réserver au frais.",
+    "Poivron en petits dés et échalote émincée, 8 à 10 min à l'huile d'olive, laisser tiédir ; ajouter le thon égoutté et le gruyère. Paprika et thym dans l'appareil.",
+    "Battre les œufs avec la crème, le lait, sel, poivre et muscade (et les aromates).",
+    "Garniture dans le fond de tarte, verser l'appareil, cuire 35 à 40 min. Servir tiède."
+  ],
+  "ingredients": [
+    {
+      "n": "pâte brisée",
+      "q": 1,
+      "r": "Frais & charcuterie",
+      "u": ""
+    },
+    {
+      "n": "œufs",
+      "q": 5,
+      "r": "Crèmerie & œufs",
+      "u": ""
+    },
+    {
+      "n": "crème liquide entière",
+      "q": 30,
+      "r": "Crèmerie & œufs",
+      "u": "cl"
+    },
+    {
+      "n": "lait",
+      "q": 20,
+      "r": "Crèmerie & œufs",
+      "u": "cl"
+    },
+    {
+      "n": "noix de muscade",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "thon à l'huile (boîte)",
+      "q": 200,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "poivron rouge",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "échalotes",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "gruyère râpé",
+      "q": 60,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "paprika fumé",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à c."
+    },
+    {
+      "n": "thym frais",
+      "q": null,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "huile d'olive",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Quiche thon et poivrons",
+  "notes": "Avec une salade verte.",
+  "portions": 6,
+  "source": "Livre de cuisine, p. 187 (quiche n°3)",
+  "type": "poisson"
+}

@@ -1,0 +1,113 @@
+{
+  "etapes": [
+    "Couper le paleron en gros cubes, saler, sécher au papier absorbant, puis colorer sur toutes les faces dans beurre + huile en cocotte.",
+    "Ajouter céleri, 3 carottes et oignons en petits cubes, râper l'ail, faire suer.",
+    "Ajouter la farine torréfiée à sec quelques minutes, puis vin et bouillon à hauteur, laurier, thym et quelques tronçons de carotte.",
+    "Cuire au four à 160 °C, couvert, au moins 2 h ; un peu de bouillon si ça réduit trop.",
+    "30 min avant la fin : faire revenir les lardons, les réserver, puis dans la même poêle les champignons en quartiers et les 4 carottes en tronçons. Tout ajouter et finir à découvert sur feu moyen-doux.",
+    "Oignons caramélisés : coupés en deux, face contre la poêle avec un peu de beurre, puis un peu d'eau, de beurre et le sucre sous papier sulfurisé jusqu'à évaporation."
+  ],
+  "ingredients": [
+    {
+      "n": "paleron de bœuf",
+      "q": 800,
+      "r": "Boucherie & poisson",
+      "u": "g"
+    },
+    {
+      "n": "beurre",
+      "q": 30,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "huile d'olive",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "céleri",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "branche"
+    },
+    {
+      "n": "carottes",
+      "q": 7,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "oignons jaunes",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "ail",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": "gousses"
+    },
+    {
+      "n": "farine",
+      "q": 30,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "vin rouge",
+      "q": 50,
+      "r": "Cave",
+      "u": "cl"
+    },
+    {
+      "n": "bouillon de légumes ou de bœuf",
+      "q": 50,
+      "r": "Épicerie",
+      "u": "cl"
+    },
+    {
+      "n": "laurier",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "thym",
+      "q": null,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "lard fumé",
+      "q": 200,
+      "r": "Frais & charcuterie",
+      "u": "g"
+    },
+    {
+      "n": "champignons de Paris",
+      "q": 200,
+      "r": "Fruits & légumes",
+      "u": "g"
+    },
+    {
+      "n": "petits oignons nouveaux",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "sucre",
+      "q": 10,
+      "r": "Épicerie",
+      "u": "g"
+    }
+  ],
+  "nom": "Bœuf bourguignon",
+  "notes": "Plat d'enfance. Cuisson au four 2 h minimum.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 116",
+  "type": "veau"
+}

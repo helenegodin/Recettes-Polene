@@ -1,0 +1,106 @@
+{
+  "etapes": [
+    "Hacher très finement oignon, ail, céleri et carotte ; les faire revenir 4 à 5 min à l'huile d'olive, sans coloration.",
+    "Ajouter bœuf et chair à saucisse, écraser et faire caraméliser 3 min.",
+    "Saler, poivrer, ajouter Espelette et concentré, cuire 5 min.",
+    "Déglacer au vin, ajouter bouillon, tomates et thym ; réduire 30 min en remuant, un peu d'eau si besoin.",
+    "Cuire les pâtes 1 min de moins que le paquet, les mélanger à la sauce avec un peu d'eau de cuisson. Servir avec du parmesan."
+  ],
+  "ingredients": [
+    {
+      "n": "mezze paniche rigate (pâtes)",
+      "q": 400,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "bœuf haché",
+      "q": 250,
+      "r": "Boucherie & poisson",
+      "u": "g"
+    },
+    {
+      "n": "chair à saucisse",
+      "q": 100,
+      "r": "Boucherie & poisson",
+      "u": "g"
+    },
+    {
+      "n": "oignons jaunes",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "ail",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "gousse"
+    },
+    {
+      "n": "céleri",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "branche"
+    },
+    {
+      "n": "grosse carotte",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "vin rouge",
+      "q": 10,
+      "r": "Cave",
+      "u": "cl"
+    },
+    {
+      "n": "bouillon de volaille",
+      "q": 15,
+      "r": "Épicerie",
+      "u": "cl"
+    },
+    {
+      "n": "tomates concassées (boîte)",
+      "q": 400,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "concentré de tomates",
+      "q": 2,
+      "r": "Épicerie",
+      "u": "c. à c."
+    },
+    {
+      "n": "huile d'olive",
+      "q": 4,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "thym frais",
+      "q": null,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "piment d'Espelette",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "parmesan",
+      "q": null,
+      "r": "Crèmerie & œufs",
+      "u": ""
+    }
+  ],
+  "nom": "Pâtes al ragù",
+  "notes": "Encore meilleur réchauffé. Servir avec beaucoup de parmesan.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 96",
+  "type": "veau"
+}

@@ -1,0 +1,43 @@
+{
+  "etapes": [
+    "Mixer feta émiettée, yaourt grec, huile d'olive, ail râpé, sel et poivre jusqu'à une texture onctueuse, sans trop mixer.",
+    "Servir dans un bol avec une cuillerée de miel pimenté."
+  ],
+  "ingredients": [
+    {
+      "n": "feta",
+      "q": 200,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "yaourt grec",
+      "q": 120,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "huile d'olive",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "ail",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "gousse"
+    },
+    {
+      "n": "miel pimenté",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à s."
+    }
+  ],
+  "nom": "Feta crémeuse",
+  "notes": "Apéro.",
+  "portions": 4,
+  "source": "Livre de cuisine, apéro n°2",
+  "type": "apero"
+}

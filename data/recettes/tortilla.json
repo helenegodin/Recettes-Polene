@@ -1,0 +1,62 @@
+{
+  "etapes": [
+    "Couper les pommes de terre en cubes de 1 cm, l'oignon en fines lamelles, hacher finement l'ail.",
+    "Les faire revenir 25 min dans une poêle chaude à feu moyen avec un généreux filet d'huile d'olive, en remuant régulièrement.",
+    "Casser les œufs dans un récipient, saler, poivrer, ajouter le piment d'Espelette et fouetter vigoureusement.",
+    "Vérifier que les pommes de terre sont bien cuites ; couvrir au besoin pour qu'elles soient fondantes.",
+    "Verser les pommes de terre dans les œufs. Faire fondre le beurre avec un généreux trait d'huile d'olive dans la poêle à feu moyen et y verser le mélange.",
+    "Bien répartir les pommes de terre et ne plus toucher, pour former une belle croûte en dessous.",
+    "Décoller les côtés à la spatule et retourner la tortilla à l'aide d'une assiette.",
+    "La faire glisser délicatement dans la poêle et cuire 2 min.",
+    "Former de jolies bordures en rabattant les extrémités sous la tortilla avec la spatule."
+  ],
+  "ingredients": [
+    {
+      "n": "pommes de terre",
+      "q": 400,
+      "r": "Fruits & légumes",
+      "u": "g"
+    },
+    {
+      "n": "oignons jaunes",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "ail",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "gousse"
+    },
+    {
+      "n": "beurre",
+      "q": null,
+      "r": "Crèmerie & œufs",
+      "u": ""
+    },
+    {
+      "n": "œufs",
+      "q": 6,
+      "r": "Crèmerie & œufs",
+      "u": ""
+    },
+    {
+      "n": "huile d'olive",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "piment d'Espelette",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Tortilla",
+  "notes": "Chaude avec une salade, ou froide le lendemain en petits dés à l'apéro avec de la mayo.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 128",
+  "type": "vege"
+}

@@ -1,0 +1,70 @@
+{
+  "etapes": [
+    "Carottes, céleri et oignon en brunoise, ail émincé ; revenir 5 min à l'huile d'olive en cocotte.",
+    "Ajouter les lentilles rincées, couvrir largement d'eau froide, laurier.",
+    "Poser la saucisse entière non piquée, porter à ébullition puis frémir 35 à 40 min à couvert.",
+    "Trancher la saucisse, saler et poivrer les lentilles en goûtant (la saucisse sale déjà).",
+    "Servir avec la moutarde."
+  ],
+  "ingredients": [
+    {
+      "n": "saucisses de Morteau (environ 400 g)",
+      "q": 1,
+      "r": "Frais & charcuterie",
+      "u": ""
+    },
+    {
+      "n": "lentilles vertes",
+      "q": 300,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "carottes",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "céleri",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": "branches"
+    },
+    {
+      "n": "oignons jaunes",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "ail",
+      "q": 3,
+      "r": "Fruits & légumes",
+      "u": "gousses"
+    },
+    {
+      "n": "feuilles de laurier",
+      "q": 2,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "huile d'olive",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "moutarde à l'ancienne",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Saucisse lentilles",
+  "notes": "Servir avec de la moutarde à l'ancienne.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 158",
+  "type": "porc"
+}

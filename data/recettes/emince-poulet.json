@@ -1,0 +1,27 @@
+{
+  "etapes": [],
+  "ingredients": [
+    {
+      "n": "poulet",
+      "q": null,
+      "r": "Boucherie & poisson",
+      "u": ""
+    },
+    {
+      "n": "champignons",
+      "q": null,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "riz",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Émincé de poulet aux champignons et riz",
+  "notes": "",
+  "portions": 6,
+  "type": "volaille"
+}

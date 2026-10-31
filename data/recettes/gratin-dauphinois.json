@@ -1,0 +1,45 @@
+{
+  "etapes": [
+    "Éplucher et laver les pommes de terre, les garder dans l'eau froide.",
+    "Les trancher très finement à la mandoline et les ranger dans un plat beurré.",
+    "Mélanger la crème avec l'ail râpé, ½ c. à c. de sel, de poivre et de muscade ; bien assaisonner et verser sur les pommes de terre.",
+    "Cuire 45 min à 1 h à 180 °C ; couvrir d'aluminium si le dessus colore trop. Les pommes de terre doivent être fondantes et la crème absorbée."
+  ],
+  "ingredients": [
+    {
+      "n": "pommes de terre à chair ferme",
+      "q": 500,
+      "r": "Fruits & légumes",
+      "u": "g"
+    },
+    {
+      "n": "crème liquide entière",
+      "q": 15,
+      "r": "Crèmerie & œufs",
+      "u": "cl"
+    },
+    {
+      "n": "ail",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "gousse"
+    },
+    {
+      "n": "noix de muscade",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "beurre",
+      "q": null,
+      "r": "Crèmerie & œufs",
+      "u": ""
+    }
+  ],
+  "nom": "Gratin dauphinois",
+  "notes": "Accompagnement. Encore meilleur réchauffé le lendemain.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 72",
+  "type": "vege"
+}

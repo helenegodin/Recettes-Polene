@@ -1,0 +1,27 @@
+{
+  "etapes": [],
+  "ingredients": [
+    {
+      "n": "ravioles",
+      "q": null,
+      "r": "Frais & charcuterie",
+      "u": ""
+    },
+    {
+      "n": "chou vert",
+      "q": null,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "lardons",
+      "q": null,
+      "r": "Frais & charcuterie",
+      "u": ""
+    }
+  ],
+  "nom": "Gratin de ravioles au chou vert et lardons",
+  "notes": "",
+  "portions": 6,
+  "type": "porc"
+}

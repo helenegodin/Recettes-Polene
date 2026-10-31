@@ -1,0 +1,63 @@
+{
+  "etapes": [],
+  "ingredients": [
+    {
+      "n": "lentilles",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "échalotes",
+      "q": null,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "feta",
+      "q": null,
+      "r": "Crèmerie & œufs",
+      "u": ""
+    },
+    {
+      "n": "graines de courge",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "tomates cerises",
+      "q": null,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "sauce cacahuète",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "huile de sésame",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "miel",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "citrons",
+      "q": null,
+      "r": "Fruits & légumes",
+      "u": ""
+    }
+  ],
+  "nom": "Salade de lentilles, feta et graines de courge",
+  "notes": "Sauce : cacahuète, huile de sésame, miel, citron.",
+  "portions": 6,
+  "type": "vege"
+}

@@ -1,0 +1,63 @@
+{
+  "etapes": [
+    "Cuire les udons 1 min de moins que le paquet.",
+    "Écraser à la fourchette beurre, miso, poivre et Espelette.",
+    "Faire revenir les shiitakés émincés à l'huile, ajouter le beurre au miso sans le brûler.",
+    "Ajouter l'ail râpé, une louche d'eau de cuisson et la crème, puis les udons. Mélanger et poivrer."
+  ],
+  "ingredients": [
+    {
+      "n": "nouilles udon",
+      "q": 400,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "shiitakés",
+      "q": 200,
+      "r": "Fruits & légumes",
+      "u": "g"
+    },
+    {
+      "n": "beurre",
+      "q": 30,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "miso blanc",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "crème liquide entière",
+      "q": 15,
+      "r": "Crèmerie & œufs",
+      "u": "cl"
+    },
+    {
+      "n": "ail",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "gousse"
+    },
+    {
+      "n": "huile neutre",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "piment d'Espelette",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Udons miso et shiitakés",
+  "notes": "Rapide : moins de 20 min.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 102",
+  "type": "vege"
+}

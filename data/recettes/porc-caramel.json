@@ -1,0 +1,82 @@
+{
+  "etapes": [
+    "Couper l'échine en morceaux, mariner 25 min avec ail haché, gingembre râpé, sel, poivre et Espelette.",
+    "Faire fondre le sucre dans l'huile sans toucher ; mélanger dès qu'il caramélise, sans le laisser trop cuire.",
+    "Ajouter la viande 2 à 3 min, puis 25 cl d'eau et le nuoc-mâm ; mijoter 30 min à couvert en remuant.",
+    "Découvrir, ajouter l'échalote ciselée et réduire environ 15 min jusqu'à une texture caramélisée.",
+    "Servir avec du riz, de l'oignon ciselé et du sésame."
+  ],
+  "ingredients": [
+    {
+      "n": "échine de porc",
+      "q": 400,
+      "r": "Boucherie & poisson",
+      "u": "g"
+    },
+    {
+      "n": "sucre",
+      "q": 100,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "huile de tournesol",
+      "q": 3,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "nuoc-mâm",
+      "q": 2,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "échalotes",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "cébettes",
+      "q": null,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "sésame",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à c."
+    },
+    {
+      "n": "ail",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "gousse"
+    },
+    {
+      "n": "gingembre frais",
+      "q": 2.5,
+      "r": "Fruits & légumes",
+      "u": "cm"
+    },
+    {
+      "n": "piment d'Espelette",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "riz",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Porc au caramel",
+  "notes": "Servir avec du riz. Marinade 25 min.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 124",
+  "type": "porc"
+}

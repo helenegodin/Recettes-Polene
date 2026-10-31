@@ -1,0 +1,65 @@
+{
+  "etapes": [
+    "Four 150 °C chaleur tournante. Saler, poivrer l'intérieur du poulet, le farcir d'ail, thym et demi-citron, le badigeonner d'huile.",
+    "Cuire 1 h, puis 8 à 10 min à 220 °C pour une peau croustillante.",
+    "Pommes de terre en frites de 1 cm, cuites 10 min départ eau froide salée, puis refroidies sur plaque.",
+    "Chauffer l'huile dans un plat au four, ajouter les pommes de terre au passage à 220 °C, 10 min en remuant ; retirer l'huile, encore 10 min.",
+    "Fleur de sel, poivre, romarin haché.",
+    "Découper le poulet, déglacer le plat avec 10 cl d'eau pour un jus, servir avec les pommes de terre."
+  ],
+  "ingredients": [
+    {
+      "n": "poulet entier (1,2 kg)",
+      "q": 1,
+      "r": "Boucherie & poisson",
+      "u": ""
+    },
+    {
+      "n": "ail",
+      "q": 4,
+      "r": "Fruits & légumes",
+      "u": "gousses"
+    },
+    {
+      "n": "bouquet de thym",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "citrons",
+      "q": 0.5,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "pommes de terre",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "kg"
+    },
+    {
+      "n": "romarin",
+      "q": 4,
+      "r": "Fruits & légumes",
+      "u": "branches"
+    },
+    {
+      "n": "huile d'olive",
+      "q": 15,
+      "r": "Épicerie",
+      "u": "cl"
+    },
+    {
+      "n": "fleur de sel",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Poulet rôti et pommes de terre",
+  "notes": "Plat du dimanche. Le reste du poulet peut faire un 2e repas.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 164 (Comme au bistrot)",
+  "type": "volaille"
+}

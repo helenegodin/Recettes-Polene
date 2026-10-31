@@ -1,0 +1,83 @@
+{
+  "etapes": [
+    "Cuisses coupées en deux saisies 5 min à l'huile, réserver ; chorizo en tranches 2 min, réserver.",
+    "Même poêle : oignon émincé 3 min, ail et tomates 5 min ; paprika et Espelette 1 min.",
+    "Ajouter le riz, le nacrer 2 min.",
+    "Verser 80 cl de bouillon chaud, mélanger une fois ; poser poulet, chorizo et haricots verts coupés en deux. Ne plus mélanger.",
+    "15 min à feu moyen-vif sans couvercle, puis 2 min à feu vif pour la croûte.",
+    "Couvrir d'un torchon 5 min, servir dans la poêle."
+  ],
+  "ingredients": [
+    {
+      "n": "riz rond à paella",
+      "q": 300,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "cuisses de poulet",
+      "q": 4,
+      "r": "Boucherie & poisson",
+      "u": ""
+    },
+    {
+      "n": "chorizo",
+      "q": 150,
+      "r": "Frais & charcuterie",
+      "u": "g"
+    },
+    {
+      "n": "haricots verts frais",
+      "q": 200,
+      "r": "Fruits & légumes",
+      "u": "g"
+    },
+    {
+      "n": "oignons jaunes",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "ail",
+      "q": 4,
+      "r": "Fruits & légumes",
+      "u": "gousses"
+    },
+    {
+      "n": "tomates concassées (boîte)",
+      "q": 200,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "paprika fumé",
+      "q": 2,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "piment d'Espelette",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "bouillon de volaille",
+      "q": 2,
+      "r": "Épicerie",
+      "u": "cube"
+    },
+    {
+      "n": "huile d'olive",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Riz poulet, chorizo et haricots façon paella",
+  "notes": "Une seule poêle.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 210",
+  "type": "volaille"
+}

@@ -1,0 +1,70 @@
+{
+  "etapes": [
+    "Four à 200 °C. Nettoyer les poireaux, les égaliser et les fendre en deux dans la longueur.",
+    "Les poser sur plaque, assaisonner l'intérieur (huile, sel, poivre, Espelette), retourner et huiler le dos.",
+    "Rôtir 20 min jusqu'à ce qu'ils soient très colorés, retirer les feuilles trop cuites et les retourner.",
+    "Sauce : oignon rouge, cornichons et persil finement ciselés, moutarde, zeste de citron, huile d'olive, sel, poivre, Espelette.",
+    "Émietter la feta, napper de sauce et finir au persil."
+  ],
+  "ingredients": [
+    {
+      "n": "poireaux",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "huile d'olive",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "piment d'Espelette",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "feta",
+      "q": 0.5,
+      "r": "Crèmerie & œufs",
+      "u": ""
+    },
+    {
+      "n": "oignons rouges",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "cornichons",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "persil frisé",
+      "q": null,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "moutarde à l'ancienne",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "citrons",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    }
+  ],
+  "nom": "Poireaux rôtis et feta",
+  "notes": "Entrée ou accompagnement (2 poireaux).",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 208",
+  "type": "vege"
+}

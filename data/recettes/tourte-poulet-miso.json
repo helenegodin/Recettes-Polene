@@ -1,0 +1,87 @@
+{
+  "etapes": [
+    "Couper le poulet en petits morceaux, émincer poireaux, champignons et ail. Dorer le poulet 5 min au beurre, réserver.",
+    "Même poêle : suer poireaux, ail et champignons 8 à 10 min ; farine 1 min, puis le lait petit à petit pour une sauce épaisse.",
+    "Ajouter miso, huile de sésame et soja, remettre le poulet, 5 min ; rectifier l'assaisonnement.",
+    "Four 180 °C chaleur tournante. Une pâte dans le moule avec son papier, la garniture, la seconde pâte ; souder, dorer à l'œuf, 45 min."
+  ],
+  "ingredients": [
+    {
+      "n": "pâtes feuilletées",
+      "q": 2,
+      "r": "Frais & charcuterie",
+      "u": ""
+    },
+    {
+      "n": "cuisses de poulet désossées",
+      "q": 3,
+      "r": "Boucherie & poisson",
+      "u": ""
+    },
+    {
+      "n": "poireaux",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "champignons de Paris",
+      "q": 300,
+      "r": "Fruits & légumes",
+      "u": "g"
+    },
+    {
+      "n": "ail",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": "gousses"
+    },
+    {
+      "n": "beurre",
+      "q": 20,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "farine",
+      "q": 20,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "lait entier",
+      "q": 40,
+      "r": "Crèmerie & œufs",
+      "u": "cl"
+    },
+    {
+      "n": "œufs",
+      "q": 1,
+      "r": "Crèmerie & œufs",
+      "u": ""
+    },
+    {
+      "n": "miso",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "huile de sésame",
+      "q": 0.5,
+      "r": "Épicerie",
+      "u": "c. à c."
+    },
+    {
+      "n": "sauce soja",
+      "q": 2,
+      "r": "Épicerie",
+      "u": "c. à s."
+    }
+  ],
+  "nom": "Tourte au poulet et miso",
+  "notes": "Tes ajustements : 2 poireaux au lieu de 1, et 3 cuisses de poulet.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 204",
+  "type": "volaille"
+}

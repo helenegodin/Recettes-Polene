@@ -1,0 +1,89 @@
+{
+  "etapes": [
+    "Émincer échalotes et ail, trancher les champignons, couper le filet en médaillons de 4 cm et bien assaisonner.",
+    "Saisir les médaillons 4 à 5 min par face dans huile + beurre à feu vif ; réserver sous aluminium.",
+    "Même poêle, feu moyen : échalotes 2 min, puis ail et champignons 6 à 8 min.",
+    "Déglacer au vin blanc, réduire de moitié ; ajouter thym, moutarde et crème, 3 à 4 min à feu doux.",
+    "Remettre les médaillons et leur jus, 6 à 8 min à feu doux (légèrement rosés).",
+    "Cuire les tagliatelles al dente, dresser, napper de sauce, médaillons dessus, ciboulette."
+  ],
+  "ingredients": [
+    {
+      "n": "filet mignon de porc",
+      "q": 800,
+      "r": "Boucherie & poisson",
+      "u": "g"
+    },
+    {
+      "n": "huile neutre",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "beurre",
+      "q": null,
+      "r": "Crèmerie & œufs",
+      "u": ""
+    },
+    {
+      "n": "champignons de Paris",
+      "q": 400,
+      "r": "Fruits & légumes",
+      "u": "g"
+    },
+    {
+      "n": "échalotes",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "ail",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": "gousses"
+    },
+    {
+      "n": "crème fraîche épaisse",
+      "q": 20,
+      "r": "Crèmerie & œufs",
+      "u": "cl"
+    },
+    {
+      "n": "vin blanc sec",
+      "q": 10,
+      "r": "Cave",
+      "u": "cl"
+    },
+    {
+      "n": "moutarde de Dijon",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "thym frais",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "branche"
+    },
+    {
+      "n": "tagliatelles fraîches",
+      "q": 400,
+      "r": "Frais & charcuterie",
+      "u": "g"
+    },
+    {
+      "n": "ciboulette",
+      "q": null,
+      "r": "Fruits & légumes",
+      "u": ""
+    }
+  ],
+  "nom": "Filet mignon à la crème, champignons et tagliatelles",
+  "notes": "Moins de 30 min.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 124",
+  "type": "porc"
+}

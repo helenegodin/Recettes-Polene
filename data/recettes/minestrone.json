@@ -1,0 +1,82 @@
+{
+  "etapes": [
+    "Oignon, carottes et céleri en petits dés revenus à l'huile ; ajouter tomates et bouillon, sel, poivre, 15 min.",
+    "Ajouter haricots égouttés et fleurettes de romanesco, 10 min.",
+    "Ajouter les pâtes jusqu'à al dente.",
+    "Crème de basilic : mixer basilic, zeste et jus de citron, sel, poivre, huile d'olive.",
+    "Servir chaud avec un filet de crème de basilic."
+  ],
+  "ingredients": [
+    {
+      "n": "gnocchetti sardi (petites pâtes)",
+      "q": 300,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "haricots blancs en conserve",
+      "q": 400,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "carottes",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "céleri",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": "branches"
+    },
+    {
+      "n": "oignons jaunes",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "petit chou romanesco",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "tomates en conserve",
+      "q": 400,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "bouillon de légumes",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "l"
+    },
+    {
+      "n": "basilic",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "bouquet"
+    },
+    {
+      "n": "citrons",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "huile d'olive",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Minestrone",
+  "notes": "Se prépare à l'avance.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 160",
+  "type": "vege"
+}

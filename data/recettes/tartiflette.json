@@ -1,0 +1,64 @@
+{
+  "etapes": [
+    "Pommes de terre épluchées, départ eau froide, 20 à 25 min (encore fermes) ; couper en rondelles épaisses.",
+    "Lardons à sec à feu vif jusqu'à bien dorés, puis beurre et oignons émincés jusqu'à translucides.",
+    "Déglacer au vin blanc, ajouter la crème et la moitié d'un reblochon en dés ; laisser fondre.",
+    "Four 200 °C chaleur tournante. Pommes de terre dans le plat, sel, poivre, napper de la sauce.",
+    "Poser le reste de reblochon coupé dans l'épaisseur, croûte en haut ; 20 à 25 min."
+  ],
+  "ingredients": [
+    {
+      "n": "pommes de terre à chair ferme",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "kg"
+    },
+    {
+      "n": "petits reblochons",
+      "q": 2,
+      "r": "Crèmerie & œufs",
+      "u": ""
+    },
+    {
+      "n": "lardons fumés",
+      "q": 200,
+      "r": "Frais & charcuterie",
+      "u": "g"
+    },
+    {
+      "n": "oignons jaunes",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "crème fraîche épaisse",
+      "q": 50,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "vin blanc",
+      "q": 10,
+      "r": "Cave",
+      "u": "cl"
+    },
+    {
+      "n": "beurre",
+      "q": null,
+      "r": "Crèmerie & œufs",
+      "u": ""
+    },
+    {
+      "n": "salade verte",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    }
+  ],
+  "nom": "Tartiflette",
+  "notes": "Prévoir une salade verte.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 144",
+  "type": "porc"
+}

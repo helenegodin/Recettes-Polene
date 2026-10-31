@@ -1,0 +1,101 @@
+{
+  "etapes": [
+    "Sauce : fouetter soja, mirin, saké, miel, gingembre, ail et huile de sésame.",
+    "Riz rincé, 1,2 volume d'eau, 8 min à couvert après ébullition, puis 10 min de repos hors du feu.",
+    "Saisir le poulet 8 min dans l'huile neutre, retourner, baisser le feu et cuire encore 15 min.",
+    "1 min avant la fin, verser la sauce et la faire réduire à feu vif pour laquer.",
+    "Sauter les broccolinis 4 à 5 min à l'huile d'olive, sel, poivre.",
+    "Dresser riz, broccolinis et poulet, napper, sésame et cébettes."
+  ],
+  "ingredients": [
+    {
+      "n": "cuisses de poulet désossées",
+      "q": 4,
+      "r": "Boucherie & poisson",
+      "u": ""
+    },
+    {
+      "n": "sauce soja",
+      "q": 6,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "mirin",
+      "q": 4,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "saké (ou vin blanc sec)",
+      "q": 4,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "miel",
+      "q": 2,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "gingembre râpé",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "c. à c."
+    },
+    {
+      "n": "ail râpé",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "c. à c."
+    },
+    {
+      "n": "huile de sésame",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à c."
+    },
+    {
+      "n": "huile neutre",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "riz japonais",
+      "q": 320,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "broccolinis",
+      "q": 300,
+      "r": "Fruits & légumes",
+      "u": "g"
+    },
+    {
+      "n": "huile d'olive",
+      "q": 2,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "graines de sésame",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "cébettes",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    }
+  ],
+  "nom": "Poulet teriyaki, riz et broccolinis",
+  "notes": "Moins de 30 min.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 42 (Pas le temps)",
+  "type": "volaille"
+}

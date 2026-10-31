@@ -1,0 +1,50 @@
+{
+  "etapes": [
+    "Faire tremper la mie de pain dans le lait.",
+    "Mixer le pain essoré avec les œufs de cabillaud sortis de leur poche.",
+    "Monter avec les huiles en filet comme une mayonnaise, ajouter le jus de citron et mixer une dernière fois."
+  ],
+  "ingredients": [
+    {
+      "n": "œufs de cabillaud",
+      "q": 80,
+      "r": "Boucherie & poisson",
+      "u": "g"
+    },
+    {
+      "n": "citrons",
+      "q": 0.5,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "mie de pain",
+      "q": 150,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "lait",
+      "q": 10,
+      "r": "Crèmerie & œufs",
+      "u": "cl"
+    },
+    {
+      "n": "huile de tournesol",
+      "q": 10,
+      "r": "Épicerie",
+      "u": "cl"
+    },
+    {
+      "n": "huile d'olive",
+      "q": 5,
+      "r": "Épicerie",
+      "u": "cl"
+    }
+  ],
+  "nom": "Tarama",
+  "notes": "Apéro.",
+  "portions": 4,
+  "source": "Livre de cuisine, apéro n°1",
+  "type": "apero"
+}

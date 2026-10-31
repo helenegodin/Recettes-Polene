@@ -1,0 +1,76 @@
+{
+  "etapes": [
+    "Travers et jarret dans une grande cocotte d'eau froide, porter à ébullition et écumer.",
+    "Ajouter oignon en quartiers, genièvre, bouquet garni, sel, poivre ; 1 h 30 à feu doux.",
+    "Ajouter carottes et poireaux en tronçons, chou en quartiers sans le tronc ; 1 h.",
+    "Ajouter pommes de terre entières pelées et saucisses fumées ; 30 min.",
+    "Servir bien chaud en assiettes creuses."
+  ],
+  "ingredients": [
+    {
+      "n": "travers de porc",
+      "q": 600,
+      "r": "Boucherie & poisson",
+      "u": "g"
+    },
+    {
+      "n": "jarret de porc",
+      "q": 1,
+      "r": "Boucherie & poisson",
+      "u": ""
+    },
+    {
+      "n": "saucisses fumées",
+      "q": 4,
+      "r": "Frais & charcuterie",
+      "u": ""
+    },
+    {
+      "n": "chou frisé",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "pommes de terre",
+      "q": 800,
+      "r": "Fruits & légumes",
+      "u": "g"
+    },
+    {
+      "n": "carottes",
+      "q": 4,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "poireaux",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "oignons jaunes",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "baies de genièvre",
+      "q": 5,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "bouquet garni",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    }
+  ],
+  "nom": "Potée express",
+  "notes": "3 h de cuisson : plutôt le week-end.",
+  "portions": 6,
+  "source": "Livre de cuisine, p. 152",
+  "type": "porc"
+}

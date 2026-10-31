@@ -1,0 +1,76 @@
+{
+  "etapes": [
+    "Betteraves crues : en papillote 1 h à 190 °C, puis peler et couper en quartiers.",
+    "Cuire le boulgour, égoutter, refroidir.",
+    "Vinaigrette : moutarde, balsamique, miel, puis huile d'olive, sel, poivre.",
+    "Torréfier les noisettes 10 min à 180 °C et les concasser ; ciseler les cébettes.",
+    "Mélanger boulgour, feta, betteraves, cébettes, épinards et noisettes avec la vinaigrette."
+  ],
+  "ingredients": [
+    {
+      "n": "betteraves (crues ou cuites)",
+      "q": 3,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "boulgour",
+      "q": 250,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "cébettes",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "botte"
+    },
+    {
+      "n": "épinards",
+      "q": 200,
+      "r": "Fruits & légumes",
+      "u": "g"
+    },
+    {
+      "n": "feta",
+      "q": 150,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "noisettes",
+      "q": 50,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "moutarde à l'ancienne",
+      "q": 2,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "vinaigre balsamique",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "huile d'olive",
+      "q": 3,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "miel",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à c."
+    }
+  ],
+  "nom": "Salade betteraves, épinards, feta et boulgour",
+  "notes": "Se prépare à l'avance. Betteraves crues : 1 h de four (ou cuites, prêtes en 15 min).",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 74 (Pas le temps du tout)",
+  "type": "vege"
+}

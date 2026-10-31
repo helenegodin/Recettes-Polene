@@ -1,0 +1,63 @@
+{
+  "etapes": [
+    "Faire rissoler l'oignon émincé au beurre, ajouter lait, chou-fleur en petits morceaux, thym, curcuma et poivre ; cuire à cœur. Four à 180 °C.",
+    "Cuire les coquillettes 1 min de moins que le paquet.",
+    "Retirer le thym, mixer en purée lisse, ajouter le cheddar et mixer encore.",
+    "Mélanger avec les pâtes dans un plat, parsemer de cheddar, cuire 15 min."
+  ],
+  "ingredients": [
+    {
+      "n": "coquillettes",
+      "q": 300,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "oignon doux",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "petit chou-fleur",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "lait",
+      "q": 50,
+      "r": "Crèmerie & œufs",
+      "u": "cl"
+    },
+    {
+      "n": "cheddar (+ un peu pour gratiner)",
+      "q": 50,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "curcuma",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à c."
+    },
+    {
+      "n": "thym",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "branche"
+    },
+    {
+      "n": "beurre",
+      "q": null,
+      "r": "Crèmerie & œufs",
+      "u": ""
+    }
+  ],
+  "nom": "Gratin de coquillettes, chou-fleur et cheddar",
+  "notes": "Plus léger qu'un mac and cheese. Se prépare à l'avance.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 88 (Sain mais coquin)",
+  "type": "vege"
+}

@@ -1,0 +1,83 @@
+{
+  "etapes": [
+    "Émincer finement les oignons (mandoline) et hacher l'ail.",
+    "Cocotte : beurre + filet d'huile, oignons, ail, sel, poivre, Espelette.",
+    "Flamber au cognac (hotte éteinte), ajouter le bouquet garni, couvrir et cuire 45 min en remuant.",
+    "Ajouter le bouillon, réchauffer, puis épaissir avec la fécule délayée dans 5 cl d'eau.",
+    "Croûtons : cubes de pain huilés et salés, 5 à 10 min à 200 °C. Râper le comté.",
+    "Verser en bols allant au four, croûtons, comté, poivre, quelques minutes sous le grill."
+  ],
+  "ingredients": [
+    {
+      "n": "oignons jaunes",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "kg"
+    },
+    {
+      "n": "ail",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "gousse"
+    },
+    {
+      "n": "bouillon de bœuf ou de légumes",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "l"
+    },
+    {
+      "n": "petit bouquet garni (thym, laurier)",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "fécule de maïs",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "pain",
+      "q": 4,
+      "r": "Épicerie",
+      "u": "tranches"
+    },
+    {
+      "n": "comté 18 mois",
+      "q": 200,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "cognac",
+      "q": null,
+      "r": "Cave",
+      "u": ""
+    },
+    {
+      "n": "beurre",
+      "q": 1,
+      "r": "Crèmerie & œufs",
+      "u": "c. à c."
+    },
+    {
+      "n": "huile d'olive",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "piment d'Espelette",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Soupe à l'oignon",
+  "notes": "",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 150 (Comme au bistrot)",
+  "type": "vege"
+}

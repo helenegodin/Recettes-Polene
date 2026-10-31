@@ -1,0 +1,63 @@
+{
+  "etapes": [
+    "Couper l'entrecôte en fines lamelles, mélanger avec fécule, sauce soja, sauce d'huître et huile de sésame ; 30 min au frais.",
+    "Faire revenir les oignons en lamelles 2 min à l'huile neutre dans une poêle très chaude.",
+    "Pousser les oignons, ajouter la viande et la marinade, cuire 3 min pour qu'elle reste fondante ; un peu d'eau si besoin.",
+    "Servir sur du riz blanc, poivré."
+  ],
+  "ingredients": [
+    {
+      "n": "entrecôte de bœuf",
+      "q": 400,
+      "r": "Boucherie & poisson",
+      "u": "g"
+    },
+    {
+      "n": "fécule de maïs",
+      "q": 10,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "sauce soja",
+      "q": 2,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "sauce d'huître",
+      "q": 2,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "huile de sésame",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "huile neutre",
+      "q": 2,
+      "r": "Épicerie",
+      "u": "c. à c."
+    },
+    {
+      "n": "oignons jaunes",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "riz",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Bœuf aux oignons",
+  "notes": "Rapide. Servir sur du riz blanc. Marinade 30 min.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 118",
+  "type": "veau"
+}

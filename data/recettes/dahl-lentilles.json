@@ -1,0 +1,106 @@
+{
+  "etapes": [
+    "Ciseler l'oignon, émincer céleri et poireau, râper gingembre et ail.",
+    "Soupe verte : mixer épinards, coriandre, piment, jus de citron vert, lait de coco, sel et poivre.",
+    "Faire revenir à l'huile oignon, ail, gingembre, puis poireau et céleri ; ajouter curry et garam masala.",
+    "Ajouter les lentilles lavées et le bouillon, cuire 15 min en remuant.",
+    "Ajouter la soupe verte, 10 min de plus. Servir avec des herbes fraîches."
+  ],
+  "ingredients": [
+    {
+      "n": "lentilles corail",
+      "q": 250,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "lait de coco",
+      "q": 250,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "oignons jaunes",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "ail",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": "gousses"
+    },
+    {
+      "n": "gingembre",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": "cm"
+    },
+    {
+      "n": "céleri",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": "branches"
+    },
+    {
+      "n": "poireau",
+      "q": 0.5,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "piment vert (facultatif)",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "épinards",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": "poignées"
+    },
+    {
+      "n": "curry",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à c."
+    },
+    {
+      "n": "garam masala",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à c."
+    },
+    {
+      "n": "citron vert",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "bouquet de coriandre",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "bouillon de légumes",
+      "q": 30,
+      "r": "Épicerie",
+      "u": "cl"
+    },
+    {
+      "n": "huile d'olive",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Dahl vert de lentilles corail",
+  "notes": "Vegan. Servir avec des naans.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 216 (Plats XXL)",
+  "type": "vege"
+}

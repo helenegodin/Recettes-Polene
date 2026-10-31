@@ -1,0 +1,112 @@
+{
+  "etapes": [
+    "Poulet : bien saler et poivrer, 30 min au frais.",
+    "Croûtons : morceaux de baguette dorés au beurre, sel, poivre, puis 1 gousse d'ail et persil haché.",
+    "Sauce : mixer 2 gousses d'ail, anchois, jus de citron, quelques gouttes de Worcestershire, 2 œufs durs, 1 jaune, poivre et Espelette ; ajouter le parmesan puis l'huile en filet comme une mayo.",
+    "Cuire le poulet à la poêle 4 min sans y toucher puis 5 à 6 min de l'autre côté ; couper en morceaux.",
+    "Mélanger les sucrines avec la sauce, ajouter poulet, croûtons, aneth, parmesan, pickles et un filet d'huile d'olive."
+  ],
+  "ingredients": [
+    {
+      "n": "baguette",
+      "q": 0.5,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "beurre",
+      "q": null,
+      "r": "Crèmerie & œufs",
+      "u": ""
+    },
+    {
+      "n": "ail",
+      "q": 3,
+      "r": "Fruits & légumes",
+      "u": "gousses"
+    },
+    {
+      "n": "persil frais",
+      "q": null,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "anchois",
+      "q": 6,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "sauce Worcestershire",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "citrons",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "œufs",
+      "q": 3,
+      "r": "Crèmerie & œufs",
+      "u": ""
+    },
+    {
+      "n": "piment d'Espelette",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "parmesan",
+      "q": 150,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "huile de tournesol",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "blancs de poulet",
+      "q": null,
+      "r": "Boucherie & poisson",
+      "u": ""
+    },
+    {
+      "n": "huile d'olive",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "sucrines",
+      "q": null,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "aneth frais",
+      "q": null,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "pickles de graines de moutarde",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Salade César",
+  "notes": "",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 150",
+  "type": "volaille"
+}

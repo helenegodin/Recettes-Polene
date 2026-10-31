@@ -1,0 +1,89 @@
+{
+  "etapes": [
+    "Colorer la viande salée sur toutes les faces dans l'huile chaude, réserver.",
+    "Baisser le feu, beurre, puis ail, carottes et oignons en brunoise, 4 à 5 min.",
+    "Verser le vin et réduire à sec ; ajouter concentré, bouillon, thym, poivre, Espelette. À ébullition, couvrir et cuire 3 h au four à 150 °C en remuant chaque heure.",
+    "Retirer thym et os, effilocher la viande avec une louche de jus.",
+    "Pommes de terre départ eau froide salée 25 min, peler, écraser grossièrement, ajouter 250 g de beurre fondu, sel, poivre (un peu de lait si trop épais).",
+    "Plat : 3 à 4 cm d'effiloché, l'écrasé par-dessus, strier à la fourchette, 10 min à 200 °C."
+  ],
+  "ingredients": [
+    {
+      "n": "plat-de-côtes de bœuf",
+      "q": 1,
+      "r": "Boucherie & poisson",
+      "u": "kg"
+    },
+    {
+      "n": "oignons jaunes",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "ail",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": "gousses"
+    },
+    {
+      "n": "bouillon de bœuf",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "l"
+    },
+    {
+      "n": "vin rouge",
+      "q": 15,
+      "r": "Cave",
+      "u": "cl"
+    },
+    {
+      "n": "carottes",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "concentré de tomates",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "thym",
+      "q": null,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "huile de tournesol",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "piment d'Espelette",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "pommes de terre",
+      "q": 1.2,
+      "r": "Fruits & légumes",
+      "u": "kg"
+    },
+    {
+      "n": "beurre",
+      "q": 260,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    }
+  ],
+  "nom": "Hachis Parmentier (bœuf effiloché)",
+  "notes": "Cuisson au four 3 h : plutôt le week-end. Le jus restant peut faire une sauce.",
+  "portions": 6,
+  "source": "Livre de cuisine, p. 210 (Plats XXL)",
+  "type": "veau"
+}

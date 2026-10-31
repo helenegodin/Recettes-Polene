@@ -1,0 +1,76 @@
+{
+  "etapes": [
+    "Ciseler échalotes et ail, retirer le boyau des saucisses.",
+    "Faire dorer la chair émiettée 5 min à feu vif dans l'huile d'olive, puis échalotes et ail 3 à 4 min.",
+    "Déglacer au vin blanc et réduire de moitié ; ajouter crème et gochujang, mijoter 5 min.",
+    "Cuire les pâtes al dente en gardant un peu d'eau de cuisson.",
+    "Mélanger pâtes et parmesan dans la sauce, lier avec l'eau de cuisson, parsemer de cébettes."
+  ],
+  "ingredients": [
+    {
+      "n": "rigatonis",
+      "q": 400,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "saucisses au fenouil",
+      "q": 200,
+      "r": "Boucherie & poisson",
+      "u": "g"
+    },
+    {
+      "n": "échalotes",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "ail",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "gousse"
+    },
+    {
+      "n": "vin blanc",
+      "q": 8,
+      "r": "Cave",
+      "u": "cl"
+    },
+    {
+      "n": "crème fraîche",
+      "q": 15,
+      "r": "Crèmerie & œufs",
+      "u": "cl"
+    },
+    {
+      "n": "gochujang",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à c."
+    },
+    {
+      "n": "parmesan",
+      "q": 50,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "cébettes",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "huile d'olive",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Pasta saucisses et gochujang",
+  "notes": "Moins de 30 min, un peu piquant.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 120 (Craquage)",
+  "type": "porc"
+}

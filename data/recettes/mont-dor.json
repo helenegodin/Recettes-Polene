@@ -1,0 +1,46 @@
+{
+  "etapes": [
+    "Four à 200 °C. Découper un disque de croûte d'environ 6 cm et le garder.",
+    "Écraser l'ail noir au cœur du fromage, verser ¾ du vin jaune, poivrer, refermer avec le disque.",
+    "Badigeonner la croûte avec le reste de vin.",
+    "Mettre dans un plat entouré des grenailles lavées, filet d'huile d'olive et fleur de sel.",
+    "Cuire 20 min, casser la croûte, mélanger et tremper les pommes de terre."
+  ],
+  "ingredients": [
+    {
+      "n": "mont d'or moyen",
+      "q": 1,
+      "r": "Crèmerie & œufs",
+      "u": ""
+    },
+    {
+      "n": "ail noir",
+      "q": 2,
+      "r": "Épicerie",
+      "u": "gousses"
+    },
+    {
+      "n": "vin jaune",
+      "q": 10,
+      "r": "Cave",
+      "u": "cl"
+    },
+    {
+      "n": "pommes de terre grenailles",
+      "q": 20,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "fleur de sel",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Mont d'or, ail noir et vin jaune",
+  "notes": "Plat d'hiver. Prévoir une salade verte.",
+  "portions": 6,
+  "source": "Livre de cuisine, p. 142",
+  "type": "vege"
+}

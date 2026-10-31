@@ -1,0 +1,70 @@
+{
+  "etapes": [
+    "Pocher la saucisse 15 min dans l'eau frémissante, à couvert et à feu doux.",
+    "Pendant ce temps, éplucher carottes et oignon, couper avec le céleri en petits morceaux. Couper la saucisse en tranches.",
+    "Faire dorer les légumes à l'huile quelques minutes en cocotte, à feu doux, puis ajouter la saucisse 5 min.",
+    "Ajouter les lentilles, le laurier, les cubes émiettés et 2,25 L d'eau froide. Couvrir et mijoter 30 min, jusqu'à ce que les lentilles soient tendres.",
+    "Mixer 2 à 3 louches de lentilles et les remettre dans la soupe. Parsemer de persil ciselé et servir."
+  ],
+  "ingredients": [
+    {
+      "n": "lentilles vertes du Puy",
+      "q": 375,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "saucisses de Morteau",
+      "q": 2,
+      "r": "Frais & charcuterie",
+      "u": ""
+    },
+    {
+      "n": "carottes",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "oignons jaunes",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "céleri",
+      "q": 3,
+      "r": "Fruits & légumes",
+      "u": "branches"
+    },
+    {
+      "n": "huile de tournesol",
+      "q": 3,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "feuilles de laurier",
+      "q": 3,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "bouillon de légumes",
+      "q": 2,
+      "r": "Épicerie",
+      "u": "cube"
+    },
+    {
+      "n": "bouquet de persil",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    }
+  ],
+  "nom": "Soupe de lentilles vertes et saucisse de Morteau",
+  "notes": "Recette pour 4 multipliée par 1,5. Variante : 2 saucisses de Montbéliard à la place de la Morteau. 1 h 10 en tout.",
+  "portions": 6,
+  "source": "Livre de cuisine, chapitre Porc, p. 94",
+  "type": "porc"
+}

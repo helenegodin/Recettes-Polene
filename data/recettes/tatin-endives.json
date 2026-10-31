@@ -1,0 +1,64 @@
+{
+  "etapes": [
+    "Four à 180 °C. Dans une poêle allant au four, fondre beurre et sucre avec sel, poivre, Espelette et thym.",
+    "Ranger les endives coupées en deux, face coupée vers le bas, bien serrées.",
+    "Déglacer au balsamique, couvrir d'un disque de papier sulfurisé, cuire 5 min.",
+    "Retirer le papier, couvrir de pâte feuilletée en rentrant les bords, piquer, enfourner 20 min.",
+    "Laisser tiédir, décoller et retourner sur une planche. Servir avec une salade."
+  ],
+  "ingredients": [
+    {
+      "n": "pâte feuilletée",
+      "q": 1,
+      "r": "Frais & charcuterie",
+      "u": ""
+    },
+    {
+      "n": "endives",
+      "q": 4,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "beurre",
+      "q": 1,
+      "r": "Crèmerie & œufs",
+      "u": "c. à s."
+    },
+    {
+      "n": "sucre",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "thym",
+      "q": 4,
+      "r": "Fruits & légumes",
+      "u": "branches"
+    },
+    {
+      "n": "vinaigre balsamique",
+      "q": 2,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "piment d'Espelette",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "salade verte",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    }
+  ],
+  "nom": "Tatin d'endives",
+  "notes": "Servir chaud avec une belle salade.",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 204",
+  "type": "vege"
+}

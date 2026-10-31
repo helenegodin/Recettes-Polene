@@ -1,0 +1,69 @@
+{
+  "etapes": [
+    "Sauce : mixer yaourt grec, 20 feuilles de menthe, zeste et jus du demi-citron, miel, fleur de sel et Espelette ; au frais.",
+    "Four à 180 °C. Dégager le chou-fleur, entailler une croix sous la tige.",
+    "Le masser avec le beurre pommade et les épices cajun, rôtir 45 min à 1 h selon la taille.",
+    "Servir coupé en quatre sur la sauce, avec huile d'olive, fleur de sel et poivre."
+  ],
+  "ingredients": [
+    {
+      "n": "chou-fleur",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "huile d'olive",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "beurre",
+      "q": 50,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "épices cajun",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "yaourt grec",
+      "q": 200,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "menthe fraîche",
+      "q": null,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "citrons",
+      "q": 0.5,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "miel",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à c."
+    },
+    {
+      "n": "piment d'Espelette",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Chou-fleur rôti, sauce menthe",
+  "notes": "",
+  "portions": 4,
+  "source": "Livre de cuisine, p. 206",
+  "type": "vege"
+}

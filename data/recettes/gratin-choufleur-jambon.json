@@ -1,0 +1,21 @@
+{
+  "etapes": [],
+  "ingredients": [
+    {
+      "n": "chou-fleur",
+      "q": null,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "jambon",
+      "q": null,
+      "r": "Frais & charcuterie",
+      "u": ""
+    }
+  ],
+  "nom": "Gratin chou-fleur jambon",
+  "notes": "",
+  "portions": 6,
+  "type": "porc"
+}

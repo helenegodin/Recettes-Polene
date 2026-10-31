@@ -1,0 +1,51 @@
+{
+  "etapes": [
+    "Mélanger farine, fenouil, sésame et ½ c. à c. de sel ; ajouter 12 cl d'eau et l'huile.",
+    "Ajouter le romarin haché, pétrir 5 min, reposer 20 min.",
+    "Étaler très finement sur papier cuisson, huiler, parsemer de fleur de sel.",
+    "Cuire 15 min à 200 °C, laisser refroidir et casser à la main."
+  ],
+  "ingredients": [
+    {
+      "n": "farine",
+      "q": 180,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "graines de fenouil",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à c."
+    },
+    {
+      "n": "sésame",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "huile d'olive",
+      "q": 6,
+      "r": "Épicerie",
+      "u": "cl"
+    },
+    {
+      "n": "romarin",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": "branches"
+    },
+    {
+      "n": "fleur de sel",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Crackers",
+  "notes": "Apéro. Repos 20 min.",
+  "portions": 4,
+  "source": "Livre de cuisine, apéro n°4",
+  "type": "apero"
+}

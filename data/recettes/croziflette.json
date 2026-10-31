@@ -1,0 +1,65 @@
+{
+  "etapes": [
+    "Ciseler les oignons, râper l'ail, tailler le lard en lardons.",
+    "Cuire les crozets le temps du paquet, égoutter dans un grand plat.",
+    "Colorer les lardons, ajouter oignons, ail et un peu de sel, laisser fondre ; poivrer.",
+    "Déglacer au vin blanc, ajouter la crème, mélanger hors du feu et verser sur les crozets.",
+    "Poser les reblochons coupés en deux, les badigeonner de vin blanc.",
+    "Cuire 15 à 20 min à 200 °C."
+  ],
+  "ingredients": [
+    {
+      "n": "crozets",
+      "q": 600,
+      "r": "Épicerie",
+      "u": "g"
+    },
+    {
+      "n": "oignons jaunes",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "ail",
+      "q": 2,
+      "r": "Fruits & légumes",
+      "u": "gousses"
+    },
+    {
+      "n": "lard fumé",
+      "q": 350,
+      "r": "Frais & charcuterie",
+      "u": "g"
+    },
+    {
+      "n": "crème fraîche entière",
+      "q": 40,
+      "r": "Crèmerie & œufs",
+      "u": "cl"
+    },
+    {
+      "n": "vin blanc",
+      "q": 1,
+      "r": "Cave",
+      "u": "verre"
+    },
+    {
+      "n": "reblochons",
+      "q": 2,
+      "r": "Crèmerie & œufs",
+      "u": ""
+    },
+    {
+      "n": "salade verte",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    }
+  ],
+  "nom": "Croziflette",
+  "notes": "Servir avec une salade vinaigrée.",
+  "portions": 6,
+  "source": "Livre de cuisine, p. 220 (Plats XXL)",
+  "type": "porc"
+}

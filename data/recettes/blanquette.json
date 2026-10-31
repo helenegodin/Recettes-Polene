@@ -1,0 +1,100 @@
+{
+  "etapes": [
+    "Dorer la viande au beurre, saupoudrer de farine et bien remuer.",
+    "Ajouter les bouillons, le vin et de l'eau à hauteur.",
+    "Ajouter carottes, poireaux et oignons, mijoter à feu très doux 1 h 30 à 2 h.",
+    "Ajouter les champignons frais 30 min avant la fin.",
+    "Au dernier moment, mélanger crème, jaune(s) d'œuf et jus de citron, l'incorporer et servir."
+  ],
+  "ingredients": [
+    {
+      "n": "blanquette de veau",
+      "q": 1.5,
+      "r": "Boucherie & poisson",
+      "u": "kg"
+    },
+    {
+      "n": "carottes",
+      "q": 5,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "champignons de Paris frais",
+      "q": 400,
+      "r": "Fruits & légumes",
+      "u": "g"
+    },
+    {
+      "n": "blancs de poireaux",
+      "q": 3,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "oignons jaunes",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "oignons grelots",
+      "q": 15,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "bouillon de légumes",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "cube"
+    },
+    {
+      "n": "bouillon de poule",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "cube"
+    },
+    {
+      "n": "vin blanc",
+      "q": 25,
+      "r": "Cave",
+      "u": "cl"
+    },
+    {
+      "n": "crème fraîche",
+      "q": 1,
+      "r": "Crèmerie & œufs",
+      "u": "petit pot"
+    },
+    {
+      "n": "œufs (jaunes)",
+      "q": 2,
+      "r": "Crèmerie & œufs",
+      "u": ""
+    },
+    {
+      "n": "citrons",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "farine",
+      "q": 2,
+      "r": "Épicerie",
+      "u": "c. à s."
+    },
+    {
+      "n": "beurre doux",
+      "q": null,
+      "r": "Crèmerie & œufs",
+      "u": ""
+    }
+  ],
+  "nom": "Blanquette de veau aux légumes",
+  "notes": "Plus de légumes, toujours frais.",
+  "portions": 6,
+  "source": "https://www.marmiton.org/recettes/recette_blanquette-de-veau-facile_19219.aspx",
+  "type": "veau"
+}
