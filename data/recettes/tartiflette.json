@@ -59,7 +59,7 @@
   "nom": "Tartiflette",
   "notes": "Prévoir une salade verte.",
   "portions": 4,
-  "source": "Whoogys, p. 144",
+  "source": "Whoogy’s, p. 144",
   "type": "porc",
   "prep": 10,
   "cuisson": 50,
@@ -67,5 +67,5 @@
   "profil": "gourmand",
   "georges": "adapter",
   "georges_note": "Reblochon au lait cru déconseillé avant 5 ans : prendre un reblochon au lait pasteurisé.",
-  "auteur": "Whoogys"
+  "auteur": "Whoogy’s"
 }

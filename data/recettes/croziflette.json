@@ -60,7 +60,7 @@
   "nom": "Croziflette",
   "notes": "Servir avec une salade vinaigrée.",
   "portions": 6,
-  "source": "Whoogys, p. 220 (Plats XXL)",
+  "source": "Whoogy’s, p. 220 (Plats XXL)",
   "type": "porc",
   "prep": 20,
   "cuisson": 35,
@@ -68,5 +68,5 @@
   "profil": "gourmand",
   "georges": "adapter",
   "georges_note": "Reblochon au lait cru déconseillé avant 5 ans : prendre un reblochon au lait pasteurisé.",
-  "auteur": "Whoogys"
+  "auteur": "Whoogy’s"
 }

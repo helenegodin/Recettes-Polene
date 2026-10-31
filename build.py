@@ -75,7 +75,7 @@ def chips(r):
     if r.get("profil") in PROFILS:
         out += f'<span class="pill p-{r["profil"]}">{PROFILS[r["profil"]]}</span>'
     if r.get("auteur"):
-        out += f'<span class="pill p-auteur a-{e(r["auteur"].split()[0].lower())}">{e(r["auteur"].split()[0])}</span>'
+        out += f'<span class="pill p-auteur a-{re.sub(r"[^a-z]", "", r["auteur"].split()[0].lower())}">{e(r["auteur"].split()[0])}</span>'
     if r.get("georges") in GEO:
         out += f'<span class="pill g-{r["georges"]}">{GEO[r["georges"]]}</span>'
     return out

@@ -46,7 +46,7 @@
   "nom": "Houmous betterave",
   "notes": "Apéro. Cuisson de la betterave 1 h.",
   "portions": 4,
-  "source": "Whoogys, apéro n°3",
+  "source": "Whoogy’s, apéro n°3",
   "type": "apero",
   "prep": 10,
   "cuisson": 60,
@@ -54,5 +54,5 @@
   "profil": "equilibre",
   "georges": "oui",
   "georges_note": "",
-  "auteur": "Whoogys"
+  "auteur": "Whoogy’s"
 }

@@ -60,7 +60,7 @@
   "nom": "Riz cantonais",
   "notes": "Express : riz cuit la veille.",
   "portions": 4,
-  "source": "Whoogys, Pas le temps",
+  "source": "Whoogy’s, Pas le temps",
   "type": "porc",
   "prep": 10,
   "cuisson": 10,
@@ -68,5 +68,5 @@
   "profil": "equilibre",
   "georges": "oui",
   "georges_note": "",
-  "auteur": "Whoogys"
+  "auteur": "Whoogy’s"
 }

@@ -78,7 +78,7 @@
   "nom": "Soupe à l'oignon",
   "notes": "",
   "portions": 4,
-  "source": "Whoogys, p. 150 (Comme au bistrot)",
+  "source": "Whoogy’s, p. 150 (Comme au bistrot)",
   "type": "vege",
   "prep": 20,
   "cuisson": 60,
@@ -86,5 +86,5 @@
   "profil": "gourmand",
   "georges": "oui",
   "georges_note": "Sans cognac flambé pour sa part si tu préfères.",
-  "auteur": "Whoogys"
+  "auteur": "Whoogy’s"
 }

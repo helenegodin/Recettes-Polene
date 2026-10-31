@@ -78,7 +78,7 @@
   "nom": "Riz poulet, chorizo et haricots façon paella",
   "notes": "Une seule poêle.",
   "portions": 4,
-  "source": "Whoogys, p. 210",
+  "source": "Whoogy’s, p. 210",
   "type": "volaille",
   "prep": 15,
   "cuisson": 35,
@@ -86,5 +86,5 @@
   "profil": "equilibre",
   "georges": "adapter",
   "georges_note": "Chorizo doux plutôt que fort.",
-  "auteur": "Whoogys"
+  "auteur": "Whoogy’s"
 }

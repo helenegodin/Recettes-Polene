@@ -108,7 +108,7 @@
   "nom": "Bœuf bourguignon",
   "notes": "Plat d'enfance. Cuisson au four 2 h minimum.",
   "portions": 4,
-  "source": "Whoogys, p. 116",
+  "source": "Whoogy’s, p. 116",
   "type": "veau",
   "prep": 30,
   "cuisson": 150,
@@ -116,5 +116,5 @@
   "profil": "gourmand",
   "georges": "oui",
   "georges_note": "Le vin s'évapore en mijotant longtemps.",
-  "auteur": "Whoogys"
+  "auteur": "Whoogy’s"
 }

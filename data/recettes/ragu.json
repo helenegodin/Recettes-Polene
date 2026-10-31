@@ -101,7 +101,7 @@
   "nom": "Pâtes al ragù",
   "notes": "Encore meilleur réchauffé. Servir avec beaucoup de parmesan.",
   "portions": 4,
-  "source": "Whoogys, p. 96",
+  "source": "Whoogy’s, p. 96",
   "type": "veau",
   "prep": 20,
   "cuisson": 40,
@@ -109,5 +109,5 @@
   "profil": "equilibre",
   "georges": "oui",
   "georges_note": "Sans piment d'Espelette pour lui.",
-  "auteur": "Whoogys"
+  "auteur": "Whoogy’s"
 }

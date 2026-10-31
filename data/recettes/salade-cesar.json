@@ -107,7 +107,7 @@
   "nom": "Salade César",
   "notes": "",
   "portions": 4,
-  "source": "Whoogys, p. 150",
+  "source": "Whoogy’s, p. 150",
   "type": "volaille",
   "prep": 30,
   "cuisson": 15,
@@ -115,5 +115,5 @@
   "profil": "gourmand",
   "georges": "adapter",
   "georges_note": "Sauce au jaune d'œuf cru déconseillée aux jeunes enfants : sa part sans sauce.",
-  "auteur": "Whoogys"
+  "auteur": "Whoogy’s"
 }

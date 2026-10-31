@@ -65,7 +65,7 @@
   "nom": "Saucisse lentilles",
   "notes": "Servir avec de la moutarde à l'ancienne.",
   "portions": 4,
-  "source": "Whoogys, p. 158",
+  "source": "Whoogy’s, p. 158",
   "type": "porc",
   "prep": 15,
   "cuisson": 40,
@@ -73,5 +73,5 @@
   "profil": "equilibre",
   "georges": "oui",
   "georges_note": "Saucisse salée : petite portion.",
-  "auteur": "Whoogys"
+  "auteur": "Whoogy’s"
 }

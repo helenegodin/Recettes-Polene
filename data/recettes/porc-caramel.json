@@ -77,7 +77,7 @@
   "nom": "Porc au caramel",
   "notes": "Servir avec du riz. Marinade 25 min.",
   "portions": 4,
-  "source": "Whoogys, p. 124",
+  "source": "Whoogy’s, p. 124",
   "type": "porc",
   "prep": 35,
   "cuisson": 45,
@@ -85,5 +85,5 @@
   "profil": "gourmand",
   "georges": "oui",
   "georges_note": "",
-  "auteur": "Whoogys"
+  "auteur": "Whoogy’s"
 }

@@ -57,7 +57,7 @@
   "nom": "Tortilla",
   "notes": "Chaude avec une salade, ou froide le lendemain en petits dés à l'apéro avec de la mayo.",
   "portions": 4,
-  "source": "Whoogys, p. 128",
+  "source": "Whoogy’s, p. 128",
   "type": "vege",
   "prep": 15,
   "cuisson": 35,
@@ -65,5 +65,5 @@
   "profil": "equilibre",
   "georges": "oui",
   "georges_note": "Œufs bien cuits pour lui.",
-  "auteur": "Whoogys"
+  "auteur": "Whoogy’s"
 }

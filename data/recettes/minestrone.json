@@ -77,7 +77,7 @@
   "nom": "Minestrone",
   "notes": "Se prépare à l'avance.",
   "portions": 4,
-  "source": "Whoogys, p. 160",
+  "source": "Whoogy’s, p. 160",
   "type": "vege",
   "prep": 15,
   "cuisson": 40,
@@ -85,5 +85,5 @@
   "profil": "equilibre",
   "georges": "oui",
   "georges_note": "",
-  "auteur": "Whoogys"
+  "auteur": "Whoogy’s"
 }
