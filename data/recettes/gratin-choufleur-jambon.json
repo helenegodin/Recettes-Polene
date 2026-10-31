@@ -1,26 +1,63 @@
 {
-  "etapes": [],
+  "nom": "Gratin chou-fleur jambon",
+  "type": "porc",
+  "portions": 6,
+  "notes": "Talon de jambon pris chez le boucher. Béchamel aux proportions de celle des lasagnes.",
+  "source": "Recette maison",
   "ingredients": [
     {
-      "n": "chou-fleur",
-      "q": null,
-      "r": "Fruits & légumes",
-      "u": ""
+      "q": 1,
+      "u": "",
+      "n": "gros chou-fleur (environ 1,2 kg)",
+      "r": "Fruits & légumes"
     },
     {
-      "n": "jambon",
+      "q": 300,
+      "u": "g",
+      "n": "talon de jambon (boucher)",
+      "r": "Boucherie & poisson"
+    },
+    {
+      "q": 60,
+      "u": "cl",
+      "n": "lait entier",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": 42,
+      "u": "g",
+      "n": "farine",
+      "r": "Épicerie"
+    },
+    {
+      "q": 42,
+      "u": "g",
+      "n": "beurre doux",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": 100,
+      "u": "g",
+      "n": "comté ou gruyère râpé",
+      "r": "Crèmerie & œufs"
+    },
+    {
       "q": null,
-      "r": "Frais & charcuterie",
-      "u": ""
+      "u": "",
+      "n": "noix de muscade",
+      "r": "Épicerie"
     }
   ],
-  "nom": "Gratin chou-fleur jambon",
-  "notes": "",
-  "portions": 6,
-  "type": "porc",
+  "etapes": [
+    "Détailler le chou-fleur en bouquets, cuire 8 à 10 min à l'eau bouillante salée (encore un peu fermes) et égoutter très soigneusement.",
+    "Couper le talon de jambon en dés.",
+    "Béchamel : beurre fondu + farine 2 min, puis le lait chaud petit à petit en fouettant ; sel, poivre, muscade et la moitié du fromage.",
+    "Four à 200 °C. Chou-fleur et dés de jambon dans le plat, napper de béchamel, parsemer du reste de fromage.",
+    "Gratiner 25 min, jusqu'à ce que le dessus soit bien doré."
+  ],
   "prep": 20,
   "cuisson": 35,
-  "cout": 11,
+  "cout": 12,
   "profil": "equilibre",
   "georges": "oui",
   "georges_note": ""
