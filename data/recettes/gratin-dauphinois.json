@@ -40,12 +40,13 @@
   "nom": "Gratin dauphinois",
   "notes": "Accompagnement. Encore meilleur réchauffé le lendemain.",
   "portions": 4,
-  "source": "Livre de cuisine, p. 72",
+  "source": "Whoogys, p. 72",
   "type": "vege",
   "prep": 15,
   "cuisson": 60,
   "cout": 4,
   "profil": "gourmand",
   "georges": "oui",
-  "georges_note": ""
+  "georges_note": "",
+  "auteur": "Whoogys"
 }

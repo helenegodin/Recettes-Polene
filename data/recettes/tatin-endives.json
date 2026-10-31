@@ -59,12 +59,13 @@
   "nom": "Tatin d'endives",
   "notes": "Servir chaud avec une belle salade.",
   "portions": 4,
-  "source": "Livre de cuisine, p. 204",
+  "source": "Whoogys, p. 204",
   "type": "vege",
   "prep": 15,
   "cuisson": 25,
   "cout": 7,
   "profil": "equilibre",
   "georges": "oui",
-  "georges_note": ""
+  "georges_note": "",
+  "auteur": "Whoogys"
 }

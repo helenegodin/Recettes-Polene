@@ -64,12 +64,13 @@
   "nom": "Couscous perlé, merguez et épinards",
   "notes": "Express, une seule casserole.",
   "portions": 4,
-  "source": "Livre de cuisine, p. 142",
+  "source": "Whoogys, p. 142",
   "type": "veau",
   "prep": 5,
   "cuisson": 20,
   "cout": 13,
   "profil": "equilibre",
   "georges": "adapter",
-  "georges_note": "Merguez épicées : saucisse douce possible pour lui."
+  "georges_note": "Merguez épicées : saucisse douce possible pour lui.",
+  "auteur": "Whoogys"
 }

@@ -82,12 +82,13 @@
   "nom": "Tourte au poulet et miso",
   "notes": "Tes ajustements : 2 poireaux au lieu de 1, et 3 cuisses de poulet.",
   "portions": 4,
-  "source": "Livre de cuisine, p. 204",
+  "source": "Whoogys, p. 204",
   "type": "volaille",
   "prep": 20,
   "cuisson": 55,
   "cout": 16,
   "profil": "gourmand",
   "georges": "oui",
-  "georges_note": ""
+  "georges_note": "",
+  "auteur": "Whoogys"
 }

@@ -65,12 +65,13 @@
   "nom": "Poireaux rôtis et feta",
   "notes": "Entrée ou accompagnement (2 poireaux).",
   "portions": 4,
-  "source": "Livre de cuisine, p. 208",
+  "source": "Whoogys, p. 208",
   "type": "vege",
   "prep": 10,
   "cuisson": 25,
   "cout": 7,
   "profil": "equilibre",
   "georges": "oui",
-  "georges_note": "Sans piment d'Espelette pour lui."
+  "georges_note": "Sans piment d'Espelette pour lui.",
+  "auteur": "Whoogys"
 }

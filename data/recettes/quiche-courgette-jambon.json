@@ -83,12 +83,13 @@
   "nom": "Quiche courgette, jambon cru et feta",
   "notes": "Avec une salade verte.",
   "portions": 6,
-  "source": "Livre de cuisine, p. 187 (quiche n°6)",
+  "source": "Whoogys, p. 187 (quiche n°6)",
   "type": "porc",
   "prep": 35,
   "cuisson": 45,
   "cout": 13,
   "profil": "gourmand",
   "georges": "oui",
-  "georges_note": ""
+  "georges_note": "",
+  "auteur": "Whoogys"
 }

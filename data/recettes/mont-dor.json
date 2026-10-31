@@ -41,12 +41,13 @@
   "nom": "Mont d'or, ail noir et vin jaune",
   "notes": "Plat d'hiver. Prévoir une salade verte.",
   "portions": 6,
-  "source": "Livre de cuisine, p. 142",
+  "source": "Whoogys, p. 142",
   "type": "vege",
   "prep": 10,
   "cuisson": 20,
   "cout": 25,
   "profil": "gourmand",
   "georges": "non",
-  "georges_note": "Fromage au lait cru, déconseillé avant 5 ans."
+  "georges_note": "Fromage au lait cru, déconseillé avant 5 ans.",
+  "auteur": "Whoogys"
 }

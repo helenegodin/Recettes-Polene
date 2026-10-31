@@ -96,12 +96,13 @@
   "nom": "Poulet teriyaki, riz et broccolinis",
   "notes": "Moins de 30 min.",
   "portions": 4,
-  "source": "Livre de cuisine, p. 42 (Pas le temps)",
+  "source": "Whoogys, p. 42 (Pas le temps)",
   "type": "volaille",
   "prep": 30,
   "cuisson": 15,
   "cout": 18,
   "profil": "equilibre",
   "georges": "oui",
-  "georges_note": ""
+  "georges_note": "",
+  "auteur": "Whoogys"
 }

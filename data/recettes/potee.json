@@ -71,12 +71,13 @@
   "nom": "Potée express",
   "notes": "3 h de cuisson : plutôt le week-end.",
   "portions": 6,
-  "source": "Livre de cuisine, p. 152",
+  "source": "Whoogys, p. 152",
   "type": "porc",
   "prep": 20,
   "cuisson": 180,
   "cout": 27,
   "profil": "equilibre",
   "georges": "oui",
-  "georges_note": ""
+  "georges_note": "",
+  "auteur": "Whoogys"
 }

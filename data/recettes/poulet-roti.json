@@ -60,12 +60,13 @@
   "nom": "Poulet rôti et pommes de terre",
   "notes": "Plat du dimanche. Le reste du poulet peut faire un 2e repas.",
   "portions": 4,
-  "source": "Livre de cuisine, p. 164 (Comme au bistrot)",
+  "source": "Whoogys, p. 164 (Comme au bistrot)",
   "type": "volaille",
   "prep": 20,
   "cuisson": 80,
   "cout": 17,
   "profil": "equilibre",
   "georges": "oui",
-  "georges_note": ""
+  "georges_note": "",
+  "auteur": "Whoogys"
 }

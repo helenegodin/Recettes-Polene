@@ -34,12 +34,13 @@
   "nom": "Tarte fine aux pommes",
   "notes": "",
   "portions": 4,
-  "source": "Livre de cuisine, p. 234",
+  "source": "Whoogys, p. 234",
   "type": "dessert",
   "prep": 20,
   "cuisson": 30,
   "cout": 6,
   "profil": "gourmand",
   "georges": "oui",
-  "georges_note": ""
+  "georges_note": "",
+  "auteur": "Whoogys"
 }

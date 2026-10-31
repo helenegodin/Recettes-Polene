@@ -100,12 +100,13 @@
   "nom": "Poulet satay",
   "notes": "Moins de 30 min. Servir avec du riz basmati.",
   "portions": 4,
-  "source": "Livre de cuisine, p. 132",
+  "source": "Whoogys, p. 132",
   "type": "volaille",
   "prep": 10,
   "cuisson": 15,
   "cout": 14,
   "profil": "gourmand",
   "georges": "adapter",
-  "georges_note": "Sans sauce piment ; pas de cacahuètes entières (risque d'étouffement)."
+  "georges_note": "Sans sauce piment ; pas de cacahuètes entières (risque d'étouffement).",
+  "auteur": "Whoogys"
 }

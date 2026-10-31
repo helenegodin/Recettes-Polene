@@ -59,12 +59,13 @@
   "nom": "Quiche lorraine",
   "notes": "Avec une salade verte.",
   "portions": 6,
-  "source": "Livre de cuisine, p. 187 (quiche n°2)",
+  "source": "Whoogys, p. 187 (quiche n°2)",
   "type": "porc",
   "prep": 30,
   "cuisson": 40,
   "cout": 11,
   "profil": "gourmand",
   "georges": "oui",
-  "georges_note": ""
+  "georges_note": "",
+  "auteur": "Whoogys"
 }

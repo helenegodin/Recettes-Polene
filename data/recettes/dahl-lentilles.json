@@ -101,12 +101,13 @@
   "nom": "Dahl vert de lentilles corail",
   "notes": "Vegan. Servir avec des naans.",
   "portions": 4,
-  "source": "Livre de cuisine, p. 216 (Plats XXL)",
+  "source": "Whoogys, p. 216 (Plats XXL)",
   "type": "vege",
   "prep": 15,
   "cuisson": 25,
   "cout": 9,
   "profil": "equilibre",
   "georges": "adapter",
-  "georges_note": "Sans piment vert."
+  "georges_note": "Sans piment vert.",
+  "auteur": "Whoogys"
 }

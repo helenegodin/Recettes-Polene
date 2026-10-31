@@ -89,12 +89,13 @@
   "nom": "Nouilles dan dan",
   "notes": "Un peu piquant, très réconfortant.",
   "portions": 4,
-  "source": "Livre de cuisine, p. 104",
+  "source": "Whoogys, p. 104",
   "type": "porc",
   "prep": 15,
   "cuisson": 15,
   "cout": 10,
   "profil": "equilibre",
   "georges": "adapter",
-  "georges_note": "Servir sa part avant l'huile pimentée."
+  "georges_note": "Servir sa part avant l'huile pimentée.",
+  "auteur": "Whoogys"
 }

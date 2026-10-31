@@ -83,12 +83,13 @@
   "nom": "Quiche poulet, kimchi et comté",
   "notes": "Avec une salade verte.",
   "portions": 6,
-  "source": "Livre de cuisine, p. 187 (quiche n°4)",
+  "source": "Whoogys, p. 187 (quiche n°4)",
   "type": "volaille",
   "prep": 35,
   "cuisson": 45,
   "cout": 15,
   "profil": "gourmand",
   "georges": "adapter",
-  "georges_note": "Kimchi piquant : en mettre peu ou faire une moitié sans."
+  "georges_note": "Kimchi piquant : en mettre peu ou faire une moitié sans.",
+  "auteur": "Whoogys"
 }
