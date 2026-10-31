@@ -1,13 +1,57 @@
 {
-  "etapes": [],
-  "ingredients": [],
   "nom": "Croque monsieur",
-  "notes": "",
-  "portions": 6,
   "type": "porc",
-  "prep": 15,
-  "cuisson": 15,
-  "cout": 10,
+  "portions": 4,
+  "notes": "Toujours avec une salade verte.",
+  "source": "Recette maison",
+  "ingredients": [
+    {
+      "q": 8,
+      "u": "tranches",
+      "n": "pain de mie",
+      "r": "Épicerie"
+    },
+    {
+      "q": 4,
+      "u": "tranches",
+      "n": "jambon",
+      "r": "Frais & charcuterie"
+    },
+    {
+      "q": 8,
+      "u": "",
+      "n": "Toastinettes",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": 20,
+      "u": "cl",
+      "n": "lait",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": 1,
+      "u": "",
+      "n": "œufs",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": 1,
+      "u": "",
+      "n": "salade verte",
+      "r": "Fruits & légumes"
+    }
+  ],
+  "etapes": [
+    "Mélanger le lait et l'œuf.",
+    "Tremper rapidement le pain de mie des deux côtés.",
+    "Poser une Toastinette de chaque côté, ajouter le jambon au milieu.",
+    "Cuire à la poêle en surveillant : ça brûle vite.",
+    "Servir avec la salade verte."
+  ],
+  "prep": 10,
+  "cuisson": 10,
+  "cout": 9,
   "profil": "gourmand",
   "georges": "oui",
   "georges_note": ""
