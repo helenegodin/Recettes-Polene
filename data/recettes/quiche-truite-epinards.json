@@ -1,27 +1,83 @@
 {
-  "etapes": [],
+  "nom": "Quiche truite épinards",
+  "type": "poisson",
+  "portions": 6,
+  "notes": "Servir tiède avec une salade verte.",
+  "source": "Recette maison (base quiche du livre)",
   "ingredients": [
     {
-      "n": "truite",
-      "q": null,
-      "r": "Boucherie & poisson",
-      "u": ""
+      "q": 1,
+      "u": "",
+      "n": "pâte brisée",
+      "r": "Frais & charcuterie"
     },
     {
-      "n": "épinards",
+      "q": 2,
+      "u": "",
+      "n": "pavés de truite fraîche",
+      "r": "Boucherie & poisson"
+    },
+    {
+      "q": 300,
+      "u": "g",
+      "n": "épinards frais",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 1,
+      "u": "gousse",
+      "n": "ail",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 5,
+      "u": "",
+      "n": "œufs",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": 30,
+      "u": "cl",
+      "n": "crème liquide entière",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": 20,
+      "u": "cl",
+      "n": "lait",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": 60,
+      "u": "g",
+      "n": "gruyère râpé",
+      "r": "Crèmerie & œufs"
+    },
+    {
       "q": null,
-      "r": "Fruits & légumes",
-      "u": ""
+      "u": "",
+      "n": "noix de muscade",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "c. à s.",
+      "n": "huile d'olive",
+      "r": "Épicerie"
     }
   ],
-  "nom": "Quiche truite épinards",
-  "notes": "",
-  "portions": 6,
-  "type": "poisson",
-  "prep": 20,
+  "etapes": [
+    "Four à 180 °C. Foncer le moule avec la pâte, piquer le fond, réserver au frais.",
+    "Cuire les pavés de truite 5 min à la poêle, retirer la peau et les arêtes, émietter.",
+    "Faire tomber les épinards 2 min avec l'huile et l'ail haché ; bien les presser et les hacher grossièrement.",
+    "Battre les œufs avec la crème, le lait, la muscade, sel et poivre.",
+    "Répartir épinards et truite sur le fond de tarte, parsemer de gruyère, verser l'appareil.",
+    "Cuire 35 à 40 min, jusqu'à ce que la quiche soit dorée et bien prise."
+  ],
+  "prep": 25,
   "cuisson": 40,
-  "cout": 14,
+  "cout": 15,
   "profil": "gourmand",
   "georges": "oui",
-  "georges_note": ""
+  "georges_note": "Bien vérifier qu'il ne reste pas d'arêtes dans sa part."
 }
