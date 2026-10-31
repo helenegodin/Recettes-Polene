@@ -1,31 +1,75 @@
 {
-  "etapes": [],
+  "nom": "Gratin de ravioles au chou vert et lardons",
+  "type": "porc",
+  "portions": 6,
+  "notes": "Moitié crème, moitié lait pour l'alléger. Avec une salade verte.",
+  "source": "Recette maison",
   "ingredients": [
     {
-      "n": "ravioles",
-      "q": null,
-      "r": "Frais & charcuterie",
-      "u": ""
+      "q": 8,
+      "u": "",
+      "n": "plaques de ravioles du Dauphiné",
+      "r": "Frais & charcuterie"
     },
     {
-      "n": "chou vert",
-      "q": null,
-      "r": "Fruits & légumes",
-      "u": ""
+      "q": 0.5,
+      "u": "",
+      "n": "chou vert (environ 600 g)",
+      "r": "Fruits & légumes"
     },
     {
-      "n": "lardons",
+      "q": 200,
+      "u": "g",
+      "n": "lardons fumés",
+      "r": "Frais & charcuterie"
+    },
+    {
+      "q": 2,
+      "u": "",
+      "n": "oignons jaunes",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 2,
+      "u": "gousses",
+      "n": "ail",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 20,
+      "u": "cl",
+      "n": "crème liquide entière",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": 20,
+      "u": "cl",
+      "n": "lait",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": 100,
+      "u": "g",
+      "n": "comté râpé",
+      "r": "Crèmerie & œufs"
+    },
+    {
       "q": null,
-      "r": "Frais & charcuterie",
-      "u": ""
+      "u": "",
+      "n": "noix de muscade",
+      "r": "Épicerie"
     }
   ],
-  "nom": "Gratin de ravioles au chou vert et lardons",
-  "notes": "",
-  "portions": 6,
-  "type": "porc",
+  "etapes": [
+    "Retirer les grosses côtes du chou et l'émincer en fines lanières. Émincer les oignons, hacher l'ail.",
+    "Faire dorer les lardons à sec dans une grande poêle, ajouter les oignons 3 min puis l'ail.",
+    "Ajouter le chou et le faire fondre à la poêle 15 min à feu moyen en remuant (couvrir au début). Poivrer, ne pas saler.",
+    "Four à 200 °C. Mélanger la crème, le lait et la muscade.",
+    "Dans un plat beurré, alterner ravioles (plaques non détachées), chou aux lardons et un peu de crème au lait ; finir par des ravioles et le reste du mélange.",
+    "Parsemer de comté et gratiner 20 min."
+  ],
   "prep": 20,
-  "cuisson": 30,
+  "cuisson": 40,
   "cout": 16,
   "profil": "gourmand",
   "georges": "oui",
