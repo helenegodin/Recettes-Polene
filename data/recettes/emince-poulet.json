@@ -1,33 +1,70 @@
 {
-  "etapes": [],
+  "nom": "Émincé de poulet aux champignons et riz",
+  "type": "volaille",
+  "portions": 6,
+  "notes": "Hauts de cuisse plus moelleux au réchauffage pour le 2e repas.",
+  "source": "Recette maison",
   "ingredients": [
     {
-      "n": "poulet",
-      "q": null,
-      "r": "Boucherie & poisson",
-      "u": ""
+      "q": 900,
+      "u": "g",
+      "n": "blancs de poulet (ou hauts de cuisse désossés)",
+      "r": "Boucherie & poisson"
     },
     {
-      "n": "champignons",
-      "q": null,
-      "r": "Fruits & légumes",
-      "u": ""
+      "q": 400,
+      "u": "g",
+      "n": "champignons de Paris frais",
+      "r": "Fruits & légumes"
     },
     {
-      "n": "riz",
-      "q": null,
-      "r": "Épicerie",
-      "u": ""
+      "q": 20,
+      "u": "cl",
+      "n": "crème fraîche",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": 1,
+      "u": "cube",
+      "n": "bouillon de volaille",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "c. à c.",
+      "n": "moutarde (facultatif)",
+      "r": "Épicerie"
+    },
+    {
+      "q": 400,
+      "u": "g",
+      "n": "riz basmati",
+      "r": "Épicerie"
+    },
+    {
+      "q": 1,
+      "u": "c. à s.",
+      "n": "huile",
+      "r": "Épicerie"
+    },
+    {
+      "q": 15,
+      "u": "g",
+      "n": "beurre",
+      "r": "Crèmerie & œufs"
     }
   ],
-  "nom": "Émincé de poulet aux champignons et riz",
-  "notes": "",
-  "portions": 6,
-  "type": "volaille",
+  "etapes": [
+    "Couper le poulet en fines lanières, émincer les champignons. Lancer la cuisson du riz.",
+    "Dorer le poulet 5 min à feu vif dans l'huile, saler, poivrer, réserver.",
+    "Même poêle : beurre, puis les champignons 6 à 8 min jusqu'à évaporation de leur eau.",
+    "Verser 15 cl de bouillon, gratter les sucs, ajouter la crème et la moutarde ; remettre le poulet et mijoter 5 min à feu doux.",
+    "Servir avec le riz."
+  ],
   "prep": 15,
   "cuisson": 25,
-  "cout": 18,
+  "cout": 17,
   "profil": "equilibre",
   "georges": "oui",
-  "georges_note": ""
+  "georges_note": "Couper ses lanières en petits morceaux."
 }
