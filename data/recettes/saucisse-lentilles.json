@@ -66,5 +66,11 @@
   "notes": "Servir avec de la moutarde à l'ancienne.",
   "portions": 4,
   "source": "Livre de cuisine, p. 158",
-  "type": "porc"
+  "type": "porc",
+  "prep": 15,
+  "cuisson": 40,
+  "cout": 16,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": "Saucisse salée : petite portion."
 }

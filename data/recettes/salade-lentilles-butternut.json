@@ -72,5 +72,11 @@
   "notes": "Salade d'hiver, se prépare à l'avance.",
   "portions": 4,
   "source": "Livre de cuisine, p. 108 (Sain mais coquin)",
-  "type": "poisson"
+  "type": "poisson",
+  "prep": 15,
+  "cuisson": 30,
+  "cout": 12,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": ""
 }

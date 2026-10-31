@@ -48,6 +48,48 @@ def meals(r):
     return 0 if r.get("type") in EXTRA else max(1, round((r.get("portions") or 6) / 3))
 
 
+def duree(m):
+    if not m:
+        return ""
+    h, mn = divmod(int(m), 60)
+    return f"{h} h {mn:02d}" if h and mn else (f"{h} h" if h else f"{mn} min")
+
+
+def infos(r):
+    """« 1 h 10 · ~25 € » ; vide si rien n'est estimé."""
+    out = []
+    t = (r.get("prep") or 0) + (r.get("cuisson") or 0)
+    if t:
+        out.append("⏱ " + duree(t))
+    if r.get("cout"):
+        out.append(f"~{r['cout']} €")
+    return " · ".join(out)
+
+
+PROFILS = {"equilibre": "Équilibré", "gourmand": "Gourmand"}
+GEO = {"oui": "Georges : oui", "adapter": "Georges : à adapter", "non": "Georges : non"}
+
+
+def chips(r):
+    out = ""
+    if r.get("profil") in PROFILS:
+        out += f'<span class="pill p-{r["profil"]}">{PROFILS[r["profil"]]}</span>'
+    if r.get("georges") in GEO:
+        out += f'<span class="pill g-{r["georges"]}">{GEO[r["georges"]]}</span>'
+    return out
+
+
+def week_totals(menu, rs):
+    slugs = []
+    for s in [m.get("recette") for m in menu.get("repas", [])] + menu.get("extras", []):
+        if s in rs and s not in slugs:
+            slugs.append(s)
+    cout = sum(rs[s].get("cout") or 0 for s in slugs)
+    actif = sum(rs[s].get("prep") or 0 for s in slugs)
+    total = sum((rs[s].get("prep") or 0) + (rs[s].get("cuisson") or 0) for s in slugs)
+    return cout, actif, total
+
+
 def load():
     rs = {}
     for f in sorted(glob.glob(str(ROOT / "data/recettes/*.json"))):
@@ -127,9 +169,16 @@ def recipe_page(r):
           "recipeInstructions": [{"@type": "HowToStep", "text": s} for s in steps],
           "recipeCategory": TYPES.get(r.get("type"), "")}
     meta = f'{tag(r)} <span class="tag">pour {port}{" · " + str(meals(r)) + " repas" if meals(r) else ""}</span>'
+    if infos(r):
+        pp = f' (≈{fmt(r["cout"] / port)} €/part)' if r.get("cout") else ""
+        det = f' — préparation {duree(r["prep"])}, cuisson {duree(r["cuisson"])}' if r.get("cuisson") else ""
+        meta += chips(r)
+        meta += f'<span class="tag">{e(infos(r))}{e(pp)}</span><span class="hint">{e(det.lstrip(" —").capitalize() if det else "")}</span>'
     body = [f'<p class="meta">{meta}</p>']
     if r.get("notes"):
         body.append(f'<p class="lead">{e(r["notes"])}</p>')
+    if r.get("georges_note"):
+        body.append(f'<p class="note-geo"><strong>Pour Georges :</strong> {e(r["georges_note"])}</p>')
     if ings:
         body.append('<div class="actions">' + bring_btn(f'{r["slug"]}.html', port) + '</div>')
         body.append('<section class="panel"><h2>Ingrédients</h2><ul class="ing">' + "".join(
@@ -155,7 +204,7 @@ def recipes_index(rs):
             f'<li class="row" data-q="{e((r["nom"] + " " + " ".join(i["n"] for i in r.get("ingredients") or [])).lower())}">'
             f'<a class="main" href="recettes/{r["slug"]}.html"><span class="name">{e(r["nom"])}'
             f'{"" if r.get("ingredients") else " <span class=badge>à compléter</span>"}</span>'
-            f'<span class="sub">pour {r.get("portions") or 4}</span></a><span class="chev">›</span></li>'
+            f'<span class="sub">pour {r.get("portions") or 4}{" · " + e(infos(r)) if infos(r) else ""}</span><span class="chips">{chips(r)}</span></a><span class="chev">›</span></li>'
             for r in items)
         groups.append(f'<section class="grp"><h2><span class="dot t-{t}"></span>{e(lbl)} <small>{len(items)}</small></h2><ul class="list">{rows}</ul></section>')
     body = ('<input type="search" id="q" placeholder="Chercher une recette ou un ingrédient" aria-label="Chercher">'
@@ -209,7 +258,8 @@ def list_page(menu, rs):
             for i in its) + "</ul></section>")
     jl = {"@context": "https://schema.org", "@type": "Recipe", "name": f'Courses · {menu.get("titre", menu["slug"])}',
           "recipeYield": "1", "recipeIngredient": lines}
-    body = (f'<p class="lead">{len(lines)} articles pour {len(used)} plats. Le bouton ouvre Bring : décoche ce que tu as déjà avant de valider.</p>'
+    cout, _, _ = week_totals(menu, rs)
+    body = (f'<p class="lead">{len(lines)} articles pour {len(used)} plats, environ {cout} €. Le bouton ouvre Bring : décoche ce que tu as déjà avant de valider.</p>'
             f'<div class="actions">{bring_btn(menu["slug"] + ".html", 1, "Tout envoyer dans Bring")}</div>'
             + "".join(sec)
             + f'<p class="hint"><a href="../menus/{menu["slug"]}.html">← Voir le menu</a></p>')
@@ -223,12 +273,23 @@ def menu_block(menu, rs, depth):
     for m in menu.get("repas", []):
         r = rs.get(m.get("recette"))
         name = f'<a href="{p}recettes/{r["slug"]}.html">{e(r["nom"])}</a>' if r else e(m.get("libelle", m.get("recette", "")))
-        note = f'<span class="sub">{e(m["note"])}</span>' if m.get("note") else ""
+        sub = " · ".join(x for x in [m.get("note", ""), infos(r) if r and not m.get("note") else ""] if x)
+        note = f'<span class="sub">{e(sub)}</span>' if sub else ""
         dot = f'<span class="dot t-{r.get("type")}"></span>' if r else '<span class="dot"></span>'
-        rows.append(f'<li class="mrow"><span class="day">{e(m.get("jour", ""))}</span><span class="main">{dot}<span>{name}{note}</span></span></li>')
+        geo = f'<span class="chips">{chips(r)}</span>' if r else ""
+        rows.append(f'<li class="mrow"><span class="day">{e(m.get("jour", ""))}</span><span class="main">{dot}<span>{name}{note}{geo}</span></span></li>')
     ex = [rs[s] for s in menu.get("extras", []) if s in rs]
     extra = ("<p class=\"hint\">En plus : " + ", ".join(f'<a href="{p}recettes/{r["slug"]}.html">{e(r["nom"])}</a>' for r in ex) + "</p>") if ex else ""
-    return f'<ul class="list menu">{"".join(rows)}</ul>{extra}'
+    cout, actif, total = week_totals(menu, rs)
+    plats = [rs[m["recette"]] for m in menu.get("repas", []) if m.get("recette") in rs]
+    nb_e = sum(1 for r in plats if r.get("profil") == "equilibre")
+    nb_g = sum(1 for r in plats if r.get("profil") == "gourmand")
+    adapt = sorted({r["nom"] for r in plats if r.get("georges") in ("adapter", "non")})
+    tot = (f'<p class="budget"><strong>Budget estimé : ~{cout} €</strong> · temps en cuisine ≈ {duree(actif)} (+ cuissons)'
+           f'<br>{nb_e} repas équilibrés, {nb_g} gourmands'
+           + (f'<br>À adapter pour Georges : {e(", ".join(adapt))}' if adapt else "<br>Tout convient à Georges")
+           + '</p>') if cout else ""
+    return f'{tot}<ul class="list menu">{"".join(rows)}</ul>{extra}'
 
 
 def menu_page(menu, rs):

@@ -108,5 +108,11 @@
   "notes": "",
   "portions": 4,
   "source": "Livre de cuisine, p. 150",
-  "type": "volaille"
+  "type": "volaille",
+  "prep": 30,
+  "cuisson": 15,
+  "cout": 21,
+  "profil": "gourmand",
+  "georges": "adapter",
+  "georges_note": "Sauce au jaune d'œuf cru déconseillée aux jeunes enfants : sa part sans sauce."
 }

@@ -96,5 +96,11 @@
   "notes": "Plus de légumes, toujours frais.",
   "portions": 6,
   "source": "https://www.marmiton.org/recettes/recette_blanquette-de-veau-facile_19219.aspx",
-  "type": "veau"
+  "type": "veau",
+  "prep": 30,
+  "cuisson": 120,
+  "cout": 45,
+  "profil": "gourmand",
+  "georges": "oui",
+  "georges_note": ""
 }

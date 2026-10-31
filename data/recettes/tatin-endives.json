@@ -60,5 +60,11 @@
   "notes": "Servir chaud avec une belle salade.",
   "portions": 4,
   "source": "Livre de cuisine, p. 204",
-  "type": "vege"
+  "type": "vege",
+  "prep": 15,
+  "cuisson": 25,
+  "cout": 7,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": ""
 }

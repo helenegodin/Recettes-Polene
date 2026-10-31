@@ -58,5 +58,11 @@
   "notes": "Chaude avec une salade, ou froide le lendemain en petits dés à l'apéro avec de la mayo.",
   "portions": 4,
   "source": "Livre de cuisine, p. 128",
-  "type": "vege"
+  "type": "vege",
+  "prep": 15,
+  "cuisson": 35,
+  "cout": 5,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": "Œufs bien cuits pour lui."
 }

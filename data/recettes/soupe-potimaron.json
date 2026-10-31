@@ -11,5 +11,11 @@
   "nom": "Soupe de potimaron",
   "notes": "",
   "portions": 6,
-  "type": "vege"
+  "type": "vege",
+  "prep": 15,
+  "cuisson": 30,
+  "cout": 6,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": ""
 }

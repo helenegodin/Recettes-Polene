@@ -65,5 +65,11 @@
   "notes": "Express, une seule casserole.",
   "portions": 4,
   "source": "Livre de cuisine, p. 142",
-  "type": "veau"
+  "type": "veau",
+  "prep": 5,
+  "cuisson": 20,
+  "cout": 13,
+  "profil": "equilibre",
+  "georges": "adapter",
+  "georges_note": "Merguez épicées : saucisse douce possible pour lui."
 }

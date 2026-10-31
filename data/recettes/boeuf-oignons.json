@@ -59,5 +59,11 @@
   "notes": "Rapide. Servir sur du riz blanc. Marinade 30 min.",
   "portions": 4,
   "source": "Livre de cuisine, p. 118",
-  "type": "veau"
+  "type": "veau",
+  "prep": 45,
+  "cuisson": 10,
+  "cout": 14,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": "Couper sa viande très fin."
 }

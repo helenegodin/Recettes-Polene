@@ -61,5 +61,11 @@
   "notes": "Express : riz cuit la veille.",
   "portions": 4,
   "source": "Livre de cuisine, Pas le temps",
-  "type": "porc"
+  "type": "porc",
+  "prep": 10,
+  "cuisson": 10,
+  "cout": 7,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": ""
 }

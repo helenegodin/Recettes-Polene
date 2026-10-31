@@ -72,5 +72,11 @@
   "notes": "3 h de cuisson : plutôt le week-end.",
   "portions": 6,
   "source": "Livre de cuisine, p. 152",
-  "type": "porc"
+  "type": "porc",
+  "prep": 20,
+  "cuisson": 180,
+  "cout": 27,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": ""
 }

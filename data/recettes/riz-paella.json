@@ -79,5 +79,11 @@
   "notes": "Une seule poêle.",
   "portions": 4,
   "source": "Livre de cuisine, p. 210",
-  "type": "volaille"
+  "type": "volaille",
+  "prep": 15,
+  "cuisson": 35,
+  "cout": 16,
+  "profil": "equilibre",
+  "georges": "adapter",
+  "georges_note": "Chorizo doux plutôt que fort."
 }

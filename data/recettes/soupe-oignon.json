@@ -79,5 +79,11 @@
   "notes": "",
   "portions": 4,
   "source": "Livre de cuisine, p. 150 (Comme au bistrot)",
-  "type": "vege"
+  "type": "vege",
+  "prep": 20,
+  "cuisson": 60,
+  "cout": 11,
+  "profil": "gourmand",
+  "georges": "oui",
+  "georges_note": "Sans cognac flambé pour sa part si tu préfères."
 }

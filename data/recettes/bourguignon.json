@@ -109,5 +109,11 @@
   "notes": "Plat d'enfance. Cuisson au four 2 h minimum.",
   "portions": 4,
   "source": "Livre de cuisine, p. 116",
-  "type": "veau"
+  "type": "veau",
+  "prep": 30,
+  "cuisson": 150,
+  "cout": 26,
+  "profil": "gourmand",
+  "georges": "oui",
+  "georges_note": "Le vin s'évapore en mijotant longtemps."
 }

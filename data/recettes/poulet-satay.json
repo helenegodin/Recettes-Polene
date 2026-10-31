@@ -101,5 +101,11 @@
   "notes": "Moins de 30 min. Servir avec du riz basmati.",
   "portions": 4,
   "source": "Livre de cuisine, p. 132",
-  "type": "volaille"
+  "type": "volaille",
+  "prep": 10,
+  "cuisson": 15,
+  "cout": 14,
+  "profil": "gourmand",
+  "georges": "adapter",
+  "georges_note": "Sans sauce piment ; pas de cacahuètes entières (risque d'étouffement)."
 }

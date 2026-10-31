@@ -128,5 +128,11 @@
   "notes": "Toujours avec une salade verte. Mijotage 2 h 30 : plutôt le week-end.",
   "portions": 6,
   "source": "Livre de cuisine, p. 163 et béchamel p. 232",
-  "type": "veau"
+  "type": "veau",
+  "prep": 40,
+  "cuisson": 180,
+  "cout": 43,
+  "profil": "gourmand",
+  "georges": "oui",
+  "georges_note": ""
 }

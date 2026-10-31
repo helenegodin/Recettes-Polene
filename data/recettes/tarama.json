@@ -46,5 +46,11 @@
   "notes": "Apéro.",
   "portions": 4,
   "source": "Livre de cuisine, apéro n°1",
-  "type": "apero"
+  "type": "apero",
+  "prep": 10,
+  "cuisson": 0,
+  "cout": 6,
+  "profil": "gourmand",
+  "georges": "adapter",
+  "georges_note": "Très salé : petite quantité."
 }

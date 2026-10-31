@@ -84,5 +84,11 @@
   "notes": "",
   "portions": 4,
   "source": "Livre de cuisine, p. 146",
-  "type": "vege"
+  "type": "vege",
+  "prep": 25,
+  "cuisson": 45,
+  "cout": 21,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": ""
 }

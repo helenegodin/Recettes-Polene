@@ -35,5 +35,11 @@
   "notes": "",
   "portions": 4,
   "source": "Livre de cuisine, p. 234",
-  "type": "dessert"
+  "type": "dessert",
+  "prep": 20,
+  "cuisson": 30,
+  "cout": 6,
+  "profil": "gourmand",
+  "georges": "oui",
+  "georges_note": ""
 }

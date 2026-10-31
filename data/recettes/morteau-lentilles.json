@@ -66,5 +66,11 @@
   "notes": "Recette pour 4 multipliée par 1,5. Variante : 2 saucisses de Montbéliard à la place de la Morteau. 1 h 10 en tout.",
   "portions": 6,
   "source": "Livre de cuisine, chapitre Porc, p. 94",
-  "type": "porc"
+  "type": "porc",
+  "prep": 20,
+  "cuisson": 50,
+  "cout": 18,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": "Saucisse salée : petite portion."
 }

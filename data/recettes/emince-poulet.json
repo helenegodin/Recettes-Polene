@@ -23,5 +23,11 @@
   "nom": "Émincé de poulet aux champignons et riz",
   "notes": "",
   "portions": 6,
-  "type": "volaille"
+  "type": "volaille",
+  "prep": 15,
+  "cuisson": 25,
+  "cout": 18,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": ""
 }

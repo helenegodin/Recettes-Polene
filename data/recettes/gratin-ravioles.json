@@ -23,5 +23,11 @@
   "nom": "Gratin de ravioles au chou vert et lardons",
   "notes": "",
   "portions": 6,
-  "type": "porc"
+  "type": "porc",
+  "prep": 20,
+  "cuisson": 30,
+  "cout": 16,
+  "profil": "gourmand",
+  "georges": "oui",
+  "georges_note": ""
 }

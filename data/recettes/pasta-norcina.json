@@ -66,5 +66,11 @@
   "notes": "",
   "portions": 4,
   "source": "Livre de cuisine, p. 96 (Psycho-pâtes)",
-  "type": "porc"
+  "type": "porc",
+  "prep": 10,
+  "cuisson": 20,
+  "cout": 15,
+  "profil": "gourmand",
+  "georges": "oui",
+  "georges_note": ""
 }

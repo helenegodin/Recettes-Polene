@@ -66,3 +66,13 @@ nav.tabs a[aria-current="page"]{color:var(--accent);background:var(--soft)}
 [hidden]{display:none!important}
 section{display:flex;flex-direction:column;gap:10px}
 .item .lbl::first-letter,.ing li span:last-child::first-letter{text-transform:uppercase}
+.budget{margin:0;padding:10px 14px;border-radius:var(--r);background:var(--soft);font-size:.95rem}
+.meta .hint{flex-basis:100%}
+.chips{display:flex;flex-wrap:wrap;gap:6px;margin-top:4px}
+.pill{font-size:.72rem;font-weight:700;padding:.15rem .55rem;border-radius:999px;border:1px solid var(--line);color:var(--muted);background:var(--surface)}
+.p-equilibre{color:var(--t-vege);border-color:currentColor}
+.p-gourmand{color:var(--t-porc);border-color:currentColor}
+.g-oui{color:var(--accent);border-color:currentColor}
+.g-adapter{color:var(--warn);background:var(--warn-bg);border-color:transparent}
+.g-non{color:#fff;background:#b3412f;border-color:transparent}
+.note-geo{margin:0;padding:10px 14px;border-radius:var(--r);background:var(--warn-bg);color:var(--ink);font-size:.92rem}

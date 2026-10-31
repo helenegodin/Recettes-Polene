@@ -42,5 +42,11 @@
   "notes": "Plat d'hiver. Prévoir une salade verte.",
   "portions": 6,
   "source": "Livre de cuisine, p. 142",
-  "type": "vege"
+  "type": "vege",
+  "prep": 10,
+  "cuisson": 20,
+  "cout": 25,
+  "profil": "gourmand",
+  "georges": "non",
+  "georges_note": "Fromage au lait cru, déconseillé avant 5 ans."
 }

@@ -60,5 +60,11 @@
   "notes": "Prévoir une salade verte.",
   "portions": 4,
   "source": "Livre de cuisine, p. 144",
-  "type": "porc"
+  "type": "porc",
+  "prep": 10,
+  "cuisson": 50,
+  "cout": 18,
+  "profil": "gourmand",
+  "georges": "adapter",
+  "georges_note": "Reblochon au lait cru déconseillé avant 5 ans : prendre un reblochon au lait pasteurisé."
 }

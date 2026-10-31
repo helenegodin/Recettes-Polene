@@ -133,5 +133,11 @@
   "notes": "2 h 30 de cuisson : plutôt le week-end.",
   "portions": 4,
   "source": "Livre de cuisine, p. 202",
-  "type": "veau"
+  "type": "veau",
+  "prep": 30,
+  "cuisson": 150,
+  "cout": 41,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": "Harissa à part."
 }

@@ -77,5 +77,11 @@
   "notes": "Avec une salade verte.",
   "portions": 6,
   "source": "Livre de cuisine, p. 187 (quiche n°6)",
-  "type": "porc"
+  "type": "porc",
+  "prep": 20,
+  "cuisson": 45,
+  "cout": 13,
+  "profil": "gourmand",
+  "georges": "oui",
+  "georges_note": ""
 }

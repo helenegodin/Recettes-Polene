@@ -71,5 +71,11 @@
   "nom": "Curry de légumes",
   "notes": "",
   "portions": 6,
-  "type": "vege"
+  "type": "vege",
+  "prep": 25,
+  "cuisson": 30,
+  "cout": 16,
+  "profil": "equilibre",
+  "georges": "adapter",
+  "georges_note": "Curry doux ; noix de cajou entières à retirer ou mixer (risque d'étouffement)."
 }

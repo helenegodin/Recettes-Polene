@@ -59,5 +59,11 @@
   "notes": "Rapide : moins de 20 min.",
   "portions": 4,
   "source": "Livre de cuisine, p. 102",
-  "type": "vege"
+  "type": "vege",
+  "prep": 5,
+  "cuisson": 15,
+  "cout": 12,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": ""
 }

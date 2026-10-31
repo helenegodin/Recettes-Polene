@@ -85,5 +85,11 @@
   "notes": "Moins de 30 min.",
   "portions": 4,
   "source": "Livre de cuisine, p. 124",
-  "type": "porc"
+  "type": "porc",
+  "prep": 10,
+  "cuisson": 20,
+  "cout": 25,
+  "profil": "gourmand",
+  "georges": "adapter",
+  "georges_note": "Sa viande bien cuite, pas rosée."
 }

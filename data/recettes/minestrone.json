@@ -78,5 +78,11 @@
   "notes": "Se prépare à l'avance.",
   "portions": 4,
   "source": "Livre de cuisine, p. 160",
-  "type": "vege"
+  "type": "vege",
+  "prep": 15,
+  "cuisson": 40,
+  "cout": 9,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": ""
 }

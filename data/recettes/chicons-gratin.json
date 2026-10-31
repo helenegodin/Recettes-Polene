@@ -60,5 +60,11 @@
   "notes": "Servir avec une purée de pommes de terre.",
   "portions": 4,
   "source": "Livre de cuisine, p. 176 (Comme au bistrot)",
-  "type": "porc"
+  "type": "porc",
+  "prep": 25,
+  "cuisson": 40,
+  "cout": 17,
+  "profil": "gourmand",
+  "georges": "oui",
+  "georges_note": ""
 }

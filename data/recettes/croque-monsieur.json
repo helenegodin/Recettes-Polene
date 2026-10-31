@@ -4,5 +4,11 @@
   "nom": "Croque monsieur",
   "notes": "",
   "portions": 6,
-  "type": "porc"
+  "type": "porc",
+  "prep": 15,
+  "cuisson": 15,
+  "cout": 10,
+  "profil": "gourmand",
+  "georges": "oui",
+  "georges_note": ""
 }

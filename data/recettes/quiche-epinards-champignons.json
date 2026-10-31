@@ -71,5 +71,11 @@
   "notes": "Avec une salade verte.",
   "portions": 6,
   "source": "Livre de cuisine, p. 187 (quiche n°5)",
-  "type": "vege"
+  "type": "vege",
+  "prep": 20,
+  "cuisson": 40,
+  "cout": 10,
+  "profil": "gourmand",
+  "georges": "oui",
+  "georges_note": ""
 }

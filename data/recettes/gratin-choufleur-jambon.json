@@ -17,5 +17,11 @@
   "nom": "Gratin chou-fleur jambon",
   "notes": "",
   "portions": 6,
-  "type": "porc"
+  "type": "porc",
+  "prep": 20,
+  "cuisson": 35,
+  "cout": 11,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": ""
 }

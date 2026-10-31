@@ -17,5 +17,11 @@
   "nom": "Quiche truite épinards",
   "notes": "",
   "portions": 6,
-  "type": "poisson"
+  "type": "poisson",
+  "prep": 20,
+  "cuisson": 40,
+  "cout": 14,
+  "profil": "gourmand",
+  "georges": "oui",
+  "georges_note": ""
 }

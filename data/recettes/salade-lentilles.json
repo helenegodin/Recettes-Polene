@@ -59,5 +59,11 @@
   "nom": "Salade de lentilles, feta et graines de courge",
   "notes": "Sauce : cacahuète, huile de sésame, miel, citron.",
   "portions": 6,
-  "type": "vege"
+  "type": "vege",
+  "prep": 20,
+  "cuisson": 25,
+  "cout": 10,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": ""
 }

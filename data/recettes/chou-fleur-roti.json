@@ -65,5 +65,11 @@
   "notes": "",
   "portions": 4,
   "source": "Livre de cuisine, p. 206",
-  "type": "vege"
+  "type": "vege",
+  "prep": 10,
+  "cuisson": 60,
+  "cout": 8,
+  "profil": "equilibre",
+  "georges": "adapter",
+  "georges_note": "Épices cajun piquantes : faire une part sans épices."
 }

@@ -39,5 +39,11 @@
   "notes": "Apéro.",
   "portions": 4,
   "source": "Livre de cuisine, apéro n°2",
-  "type": "apero"
+  "type": "apero",
+  "prep": 5,
+  "cuisson": 0,
+  "cout": 6,
+  "profil": "gourmand",
+  "georges": "adapter",
+  "georges_note": "Sans le miel pimenté pour lui."
 }

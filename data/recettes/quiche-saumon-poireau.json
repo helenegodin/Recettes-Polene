@@ -77,5 +77,11 @@
   "notes": "Avec une salade verte.",
   "portions": 6,
   "source": "Livre de cuisine, p. 187 (quiche n°1)",
-  "type": "poisson"
+  "type": "poisson",
+  "prep": 20,
+  "cuisson": 45,
+  "cout": 16,
+  "profil": "gourmand",
+  "georges": "oui",
+  "georges_note": ""
 }

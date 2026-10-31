@@ -77,5 +77,11 @@
   "notes": "Avec une salade verte.",
   "portions": 6,
   "source": "Livre de cuisine, p. 187 (quiche n°4)",
-  "type": "volaille"
+  "type": "volaille",
+  "prep": 20,
+  "cuisson": 45,
+  "cout": 15,
+  "profil": "gourmand",
+  "georges": "adapter",
+  "georges_note": "Kimchi piquant : en mettre peu ou faire une moitié sans."
 }

@@ -61,5 +61,11 @@
   "notes": "Servir avec une salade vinaigrée.",
   "portions": 6,
   "source": "Livre de cuisine, p. 220 (Plats XXL)",
-  "type": "porc"
+  "type": "porc",
+  "prep": 20,
+  "cuisson": 35,
+  "cout": 28,
+  "profil": "gourmand",
+  "georges": "adapter",
+  "georges_note": "Reblochon au lait cru déconseillé avant 5 ans : prendre un reblochon au lait pasteurisé."
 }

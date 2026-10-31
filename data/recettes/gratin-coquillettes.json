@@ -59,5 +59,11 @@
   "notes": "Plus léger qu'un mac and cheese. Se prépare à l'avance.",
   "portions": 4,
   "source": "Livre de cuisine, p. 88 (Sain mais coquin)",
-  "type": "vege"
+  "type": "vege",
+  "prep": 25,
+  "cuisson": 30,
+  "cout": 7,
+  "profil": "equilibre",
+  "georges": "oui",
+  "georges_note": ""
 }

@@ -78,5 +78,11 @@
   "notes": "Servir avec du riz. Marinade 25 min.",
   "portions": 4,
   "source": "Livre de cuisine, p. 124",
-  "type": "porc"
+  "type": "porc",
+  "prep": 35,
+  "cuisson": 45,
+  "cout": 8,
+  "profil": "gourmand",
+  "georges": "oui",
+  "georges_note": ""
 }
