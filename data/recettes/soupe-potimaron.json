@@ -1,21 +1,76 @@
 {
-  "etapes": [],
+  "nom": "Soupe de potimaron",
+  "type": "vege",
+  "portions": 6,
+  "notes": "Se congèle très bien.",
+  "source": "Recette maison",
   "ingredients": [
     {
-      "n": "potimaron",
+      "q": 1,
+      "u": "",
+      "n": "potimaron (environ 1,2 kg)",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 5,
+      "u": "",
+      "n": "pommes de terre",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 3,
+      "u": "",
+      "n": "oignons jaunes",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 3,
+      "u": "gousses",
+      "n": "ail",
+      "r": "Fruits & légumes"
+    },
+    {
+      "q": 20,
+      "u": "g",
+      "n": "beurre",
+      "r": "Crèmerie & œufs"
+    },
+    {
+      "q": 1,
+      "u": "l",
+      "n": "bouillon de légumes",
+      "r": "Épicerie"
+    },
+    {
+      "q": 15,
+      "u": "cl",
+      "n": "crème fraîche (ou lait de coco)",
+      "r": "Crèmerie & œufs"
+    },
+    {
       "q": null,
-      "r": "Fruits & légumes",
-      "u": ""
+      "u": "",
+      "n": "noix de muscade",
+      "r": "Épicerie"
+    },
+    {
+      "q": 2,
+      "u": "c. à s.",
+      "n": "graines de courge",
+      "r": "Épicerie"
     }
   ],
-  "nom": "Soupe de potimaron",
-  "notes": "",
-  "portions": 6,
-  "type": "vege",
+  "etapes": [
+    "Laver le potimaron sans l'éplucher, retirer les graines et le couper en cubes. Éplucher et couper les pommes de terre et les oignons, hacher l'ail.",
+    "Faire suer les oignons et l'ail 3 min dans le beurre, sans coloration.",
+    "Ajouter le potimaron et les pommes de terre, verser le bouillon (un peu d'eau si besoin pour couvrir). Cuire 25 min à couvert.",
+    "Mixer finement, ajouter la crème et la muscade, saler, poivrer ; allonger avec un peu d'eau si trop épais.",
+    "Griller les graines de courge 2 min à sec et en parsemer les bols des adultes."
+  ],
   "prep": 15,
   "cuisson": 30,
-  "cout": 6,
+  "cout": 7,
   "profil": "equilibre",
   "georges": "oui",
-  "georges_note": ""
+  "georges_note": "Sa part sans les graines de courge (risque d'étouffement avant 5 ans)."
 }
