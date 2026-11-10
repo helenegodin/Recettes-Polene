@@ -134,5 +134,8 @@
   "cout": 43,
   "profil": "gourmand",
   "georges": "oui",
-  "georges_note": ""
+  "georges_note": "",
+  "semaines": [
+    "2026-10-26"
+  ]
 }

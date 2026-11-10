@@ -1,0 +1,61 @@
+{
+  "cout": 3,
+  "cuisson": 30,
+  "etapes": [
+    "Laver le poireau et le couper en rondelles ; éplucher les pommes de terre en cubes de 2 cm ; émincer l'oignon.",
+    "Faire revenir poireau et oignon dans le beurre 5 min (fonction Sauté, ou à la poêle).",
+    "Ajouter pommes de terre, bouillon émietté, 750 ml d'eau, sel et poivre, sans dépasser le repère MAX.",
+    "Lancer le programme Soupe veloutée (Smooth), environ 25 min.",
+    "Ajouter la crème. Si « COOL » clignote, Pulse est bloqué tant que c'est chaud : mélanger à la cuillère."
+  ],
+  "georges": "oui",
+  "georges_note": "Velouté doux",
+  "ingredients": [
+    {
+      "n": "poireau (blanc + vert tendre)",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "pommes de terre farineuses",
+      "q": 300,
+      "r": "Fruits & légumes",
+      "u": "g"
+    },
+    {
+      "n": "petit oignon",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "beurre",
+      "q": 15,
+      "r": "Crèmerie & œufs",
+      "u": "g"
+    },
+    {
+      "n": "cube de bouillon de légumes",
+      "q": 1,
+      "r": "Épicerie",
+      "u": ""
+    },
+    {
+      "n": "crème fraîche (facultatif)",
+      "q": 2,
+      "r": "Crèmerie & œufs",
+      "u": "c. à s."
+    }
+  ],
+  "nom": "Soupe poireaux-pommes de terre (Ninja)",
+  "notes": "Au Ninja Soup Maker. Se garde 3 jours au frigo, se congèle bien.",
+  "portions": 3,
+  "prep": 10,
+  "profil": "equilibre",
+  "source": "Recette maison",
+  "type": "vege",
+  "semaines": [
+    "2026-11-09"
+  ]
+}

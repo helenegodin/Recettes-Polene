@@ -70,8 +70,15 @@ PROFILS = {"equilibre": "Équilibré", "gourmand": "Gourmand"}
 GEO = {"oui": "Georges : oui", "adapter": "Georges : à adapter", "non": "Georges : non"}
 
 
+def nb_fois(r):
+    return len(set(r.get("semaines") or []))
+
+
 def chips(r):
     out = ""
+    n = nb_fois(r)
+    if n:
+        out += f'<span class="pill p-fois">{"★ " if n >= 3 else ""}Faite {n} fois</span>'
     if r.get("profil") in PROFILS:
         out += f'<span class="pill p-{r["profil"]}">{PROFILS[r["profil"]]}</span>'
     if r.get("auteur"):
@@ -213,6 +220,12 @@ def recipes_index(rs):
             f'<span class="sub">pour {r.get("portions") or 4}{" · " + e(infos(r)) if infos(r) else ""}</span><span class="chips">{chips(r)}</span></a><span class="chev">›</span></li>'
             for r in items)
         groups.append(f'<section class="grp"><h2><span class="dot t-{t}"></span>{e(lbl)} <small>{len(items)}</small></h2><ul class="list">{rows}</ul></section>')
+    top = sorted([r for r in rs.values() if nb_fois(r)], key=lambda r: (-nb_fois(r), r["nom"].lower()))
+    if top:
+        groups.insert(0, '<section class="grp"><h2>★ Les plus cuisinées <small>' + str(len(top)) + '</small></h2><ul class="list">' + "".join(
+            f'<li class="row" data-q="{e(r["nom"].lower())}"><a class="main" href="recettes/{r["slug"]}.html"><span class="name">{e(r["nom"])}</span>'
+            f'<span class="sub">faite {nb_fois(r)} fois · dernière fois semaine du {e(max(r["semaines"])[8:])}/{e(max(r["semaines"])[5:7])}</span></a><span class="chev">›</span></li>'
+            for r in top[:10]) + '</ul></section>')
     body = ('<input type="search" id="q" placeholder="Chercher une recette ou un ingrédient" aria-label="Chercher">'
             + "".join(groups)
             + """<script>

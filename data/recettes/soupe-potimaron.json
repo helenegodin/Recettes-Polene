@@ -72,5 +72,8 @@
   "cout": 7,
   "profil": "equilibre",
   "georges": "oui",
-  "georges_note": "Sa part sans les graines de courge (risque d'étouffement avant 5 ans)."
+  "georges_note": "Sa part sans les graines de courge (risque d'étouffement avant 5 ans).",
+  "semaines": [
+    "2026-10-26"
+  ]
 }

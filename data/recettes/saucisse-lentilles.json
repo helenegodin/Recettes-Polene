@@ -73,5 +73,8 @@
   "profil": "equilibre",
   "georges": "oui",
   "georges_note": "Saucisse salée : petite portion.",
-  "auteur": "Whoogy’s"
+  "auteur": "Whoogy’s",
+  "semaines": [
+    "2026-11-09"
+  ]
 }

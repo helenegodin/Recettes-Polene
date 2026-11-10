@@ -1,0 +1,66 @@
+{
+  "cout": 6,
+  "cuisson": 25,
+  "etapes": [
+    "Laver les courgettes sans les éplucher et les couper en rondelles. Éplucher les pommes de terre et les couper en cubes. Émincer l'oignon et l'ail.",
+    "Faire suer l'oignon et l'ail 3 min à l'huile d'olive en cocotte.",
+    "Ajouter les courgettes et les pommes de terre, verser le bouillon à hauteur, cuire 25 min à couvert.",
+    "Mixer avec le Boursin Cuisine, saler, poivrer."
+  ],
+  "georges": "oui",
+  "georges_note": "Douce et lisse, parfaite pour lui.",
+  "ingredients": [
+    {
+      "n": "courgettes",
+      "q": 1.5,
+      "r": "Fruits & légumes",
+      "u": "kg"
+    },
+    {
+      "n": "pommes de terre",
+      "q": 4,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "oignons jaunes",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": ""
+    },
+    {
+      "n": "ail",
+      "q": 1,
+      "r": "Fruits & légumes",
+      "u": "gousse"
+    },
+    {
+      "n": "bouillon de légumes",
+      "q": 1,
+      "r": "Épicerie",
+      "u": "l"
+    },
+    {
+      "n": "Boursin Cuisine",
+      "q": 1,
+      "r": "Crèmerie & œufs",
+      "u": "pot"
+    },
+    {
+      "n": "huile d'olive",
+      "q": null,
+      "r": "Épicerie",
+      "u": ""
+    }
+  ],
+  "nom": "Soupe de courgettes",
+  "notes": "Se congèle bien.",
+  "portions": 6,
+  "prep": 15,
+  "profil": "equilibre",
+  "semaines": [
+    "2026-11-09"
+  ],
+  "source": "Recette maison",
+  "type": "vege"
+}
